@@ -1,0 +1,159 @@
+
+1. **Inversión en tecnología de la información (TI) en EE.UU.**
+
+* **Consultoría y servicios**: Gran parte se destina al rediseño de operaciones comerciales
+
+2. **Tendencia de inversión en TI (1999–2013)**
+
+* **Proporción de capital invertido en TI**: Aumentó del 14% al 33% del capital total
+
+
+8. **Objetivos empresariales con TI**
+
+* **Beneficios**: Respuesta rápida al cliente, reducción de inventario, mayor eficiencia
+* **Cadenas de suministro**: Más rápidas, con enfoque en inventario justo a tiempo
+
+1. **Cambios tecnológicos interrelacionados**
+
+* **Plataforma computacional móvil**: Adopción generalizada en negocios y usuarios
+* **Big Data**: Crecimiento en su uso comercial para análisis y toma de decisiones
+* **Computación en la nube**: Aumento en la ejecución de software de negocios vía Internet
+  
+1. **El mundo “plano” según Thomas Friedman**
+
+* **Significado**: La globalización, impulsada por Internet y las comunicaciones, eliminó ventajas tradicionales de los países desarrollados y generó competencia global en empleos, mercados y recursos, con paises con mas ganas y sueldos bajos.
+
+1. **Objetivos estratégicos de los sistemas de información**
+
+* **Excelencia operacional**
+* **Nuevos productos, servicios y modelos de negocios**
+* **Intimidad con el cliente y proveedor** mediante el análisis de datos y comunicación directa.
+* **Toma de decisiones mejorada**
+* **Ventaja competitiva**
+* **Sobrevivencia** adaptarse a las exigencias del entorno y mantenerse en el mercado.
+
+1. **Definición técnica de sistema de información**
+
+* **Componentes interrelacionados**: Recolectan, procesan, almacenan y distribuyen información.
+* **Propósito**: Apoyar la toma de decisiones y el control organizacional.
+
+1. **Diferencia entre datos e información**
+
+* **Datos**: Elementos en bruto que representan eventos sin procesar.
+* **Información**: Datos modelados en una forma significativa y útil para los humanos.
+
+1. **Actividades que producen información**
+
+* **Entrada**: Captura datos del entorno o de las operaciones internas.
+* **Procesamiento**: Convierte los datos en una forma significativa.
+* **Salida**: Transfiere la información procesada a las personas o actividades donde se usará.
+
+1. **Gerencia de nivel superior**
+
+* **Función**: Toma decisiones estratégicas de largo alcance.
+* **Responsabilidad**: Asegurar el desempeño financiero de la empresa.
+
+2. **Gerencia de nivel medio**
+
+* **Función**: Ejecutar los programas y planes de la gerencia superior.
+
+3. **Gerencia operacional**
+
+* **Función**: Supervisar las actividades diarias de la empresa.
+
+4. **Trabajadores del conocimiento**
+
+* **Ejemplos**: Ingenieros, científicos, arquitectos.
+* **Función**: Diseñar productos o servicios y generar nuevo conocimiento.
+
+5. **Trabajadores de datos**
+
+* **Ejemplos**: Secretarias, asistentes administrativos.
+* **Función**: Apoyar en la calendarización y comunicaciones en todos los niveles.
+
+6. **Trabajadores de producción o de servicio**
+
+* **Función**: Elaborar el producto y ofrecer el servicio.
+
+1. **Intranet**
+
+* **Definición**: Red corporativa interna basada en tecnología de Internet.
+
+2. **Extranet**
+
+* **Definición**: Intranet privada extendida a usuarios autorizados fuera de la organización.
+* **Uso**: Coordinar actividades con otras empresas como compras y colaboración en diseño.
+
+1. **Activos complementarios**
+
+* **Definición**: Valores requeridos para derivar valor de una inversión primaria.
+* **Ejemplo**: Los automóviles requieren carreteras, estaciones de gasolina, talleres de reparación y regulación legal.
+
+1. **Activos organizacionales**
+
+* **Características**: Cultura de apoyo orientada a eficiencia y eficacia, modelo de negocios apropiado, procesos eficientes, autoridad descentralizada, decisiones distribuidas y sólido equipo de desarrollo de SI.
+
+1. **Activos gerenciales**
+
+* **Características**: Apoyo directivo a inversión tecnológica y cambio, incentivos para innovación, trabajo colaborativo, capacitación en decisiones, cultura flexible y basada en conocimiento.
+
+1. **Activos sociales**
+
+* **Características**: Infraestructura de Internet y telecomunicaciones, educación con TI para alfabetismo digital, estándares gubernamentales y privados, leyes que fomentan mercados justos y empresas tecnológicas de apoyo en mercados adyacentes.
+
+1. **TPS**
+
+* **Nombre**: Sistemas de procesamiento de transacciones
+* **Función**: Registrar operaciones diarias de la organización.
+* **Ejemplos**: Ventas, pagos, depósitos, inventario.
+* **Uso**: Base de datos para MIS, DSS y otros sistemas.
+* **Objetivo**: Procesar grandes volúmenes de transacciones con precisión y rapidez.
+
+2. **MIS**
+
+* **Nombre**: Sistemas de información gerencial
+* **Función**: Reportes rutinarios para gerencia media.
+* **Datos**: De TPS, comprimidos y programados.
+* **Uso**: Supervisar, controlar y predecir desempeño.
+* **Análisis**: Simple, poca flexibilidad.
+
+3. **DSS**
+
+* **Nombre**: Sistemas de soporte de decisiones
+* **Función**: Decisiones no rutinarias con modelos y análisis.
+* **Datos**: Internos (TPS, MIS) y externos.
+* **Usuarios**: Gerentes y analistas avanzados.
+
+4. **ESS**
+
+* **Nombre**: Sistemas de apoyo a ejecutivos
+* **Función**: Decisiones estratégicas no rutinarias.
+* **Datos**: Externos, MIS y DSS.
+* **Herramienta**: Tableros y portales ejecutivos.
+* **Objetivo**: Visión global y pronósticos.
+
+5. **ERP**
+
+* **Nombre**: Sistemas empresariales
+* **Función**: Integrar procesos clave en un solo sistema.
+* **Áreas**: Producción, finanzas, ventas, RRHH.
+* **Beneficio**: Flujo automático de datos y decisiones precisas.
+
+6. **SCM**
+
+* **Nombre**: Sistemas de cadena de suministro
+* **Función**: Coordinar flujo de bienes e información con proveedores.
+* **Objetivo**: Entrega rápida y económica.
+* **Tipo**: Interorganizacional.
+
+7. **CRM**
+
+* **Nombre**: Sistemas de relaciones con clientes
+* **Función**: Gestionar ventas, marketing y servicio.
+* **Objetivo**: Satisfacción, retención y aumento de ventas.
+
+8. **KMS**
+
+* **Nombre**: Sistemas de conocimiento
+* **Función**: Capturar y compartir conocimiento empresarial.
+* **Objetivo**: Mejorar procesos, decisiones y ventaja estratégica.

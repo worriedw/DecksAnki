@@ -253,3 +253,75 @@
 * **Nanotecnología**: Desarrollo de circuitos a escala molecular, prometiendo mayor miniaturización y eficiencia.
 * **Virtualización**: Un servidor físico se comporta como múltiples máquinas, optimizando recursos.
 * **Computación en la nube (incipiente en 2004)**: Provisión de aplicaciones y almacenamiento a través de Internet en lugar de recursos locales.
+
+1. **Hardware de cómputo**
+
+* **Definición**: Computadoras de escritorio, portátiles, servidores y dispositivos de almacenamiento
+
+2. **Software de sistemas**
+
+* **Definición**: Sistemas operativos y programas que administran recursos de hardware y aplicaciones
+
+3. **Administración de datos y almacenamiento**
+
+* **Definición**: Bases de datos y sistemas de gestión de datos
+
+4. **Tecnología de redes y telecomunicaciones**
+
+* **Definición**: Redes de datos, Internet, intranets, extranets y equipos de comunicación
+
+5. **Servicios de Internet**
+
+* **Definición**: Proveedores de servicios de red, aplicaciones web y soporte de conectividad
+
+6. **Servicios de consultoría e integración de sistemas**
+
+* **Definición**: Asistencia para diseñar, integrar y administrar sistemas complejos
+
+7. **Servicios de administración y soporte de sistemas**
+
+* **Definición**: Capacidades de planeación, operación y mantenimiento de la infraestructura
+
+1. **La Ley de Moore y el poder de la microprocesadora**
+
+* **Definición**: Los microprocesadores duplican su poder de cómputo aproximadamente cada 18 meses, reduciendo costos y aumentando rendimiento
+
+2. **Ley del almacenamiento masivo digital**
+
+* **Definición**: La capacidad de almacenamiento se duplica cada año, con costos decrecientes
+
+3. **Ley de Metcalfe y economía de redes**
+
+* **Definición**: El valor de una red crece en proporción al cuadrado del número de sus miembros
+
+4. **Declinación de costos en las comunicaciones y el Internet**
+
+* **Definición**: Disminuyen los costos de transmisión de datos y se expande la conectividad global
+
+5. **Estándares de hardware**
+
+* **Definición**: La proliferación de estándares abre la competencia y reduce costos
+
+6. **Arquitectura cliente/servidor**
+
+* **Definición**: División del procesamiento entre clientes (usuarios finales) y servidores (proveedores de recursos)
+
+7. **Computación en red y en cuadrícula (grid computing)**
+
+* **Definición**: Uso compartido y coordinado de recursos distribuidos en múltiples computadoras
+
+8. **On-demand computing (utilización bajo demanda)**
+
+* **Definición**: Acceso a poder de cómputo y servicios según necesidad, reduciendo inversiones en infraestructura propia
+
+9. **Nanotecnología**
+
+* **Definición**: Desarrollo de circuitos a escala molecular, prometiendo mayor miniaturización y eficiencia
+
+10. **Virtualización**
+
+* **Definición**: Un servidor físico se comporta como múltiples máquinas, optimizando recursos
+
+11. **Computación en la nube (incipiente en 2004)**
+
+* **Definición**: Provisión de aplicaciones y almacenamiento a través de Internet en lugar de recursos locales

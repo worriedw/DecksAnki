@@ -157,3 +157,99 @@
 * **Nombre**: Sistemas de conocimiento
 * **Función**: Capturar y compartir conocimiento empresarial.
 * **Objetivo**: Mejorar procesos, decisiones y ventaja estratégica.
+
+1. **Infraestructura de TI**
+
+* **Nombre**: Infraestructura de tecnología de la información
+* **Definición**: Conjunto de dispositivos físicos y aplicaciones de software necesarios para operar toda la empresa. También comprende un conjunto de servicios a nivel empresarial, que incluyen capacidades técnicas y humanas.
+* **Componentes clave**: Plataformas de cómputo, Servicios de telecomunicaciones (datos, voz, video), Gestión de datos (almacenamiento y análisis), Software de aplicaciones empresariales, Administración de instalaciones físicas, Gestión de TI (planificación, coordinación, contabilidad, dirección de proyectos), Estándares de TI (políticas sobre uso de tecnología), Educación en TI (capacitación), Investigación y desarrollo de TI
+
+2. **Evolución de la infraestructura de TI – las cinco eras**
+
+* **Nombre**: Etapas de evolución de la infraestructura de TI
+* **Mainframes y minicomputadoras (1959-presente)**: Computación centralizada controlada por operadores, con componentes suministrados por un solo proveedor
+* **Computadora personal (1981-presente)**: Proliferación de PCs en escritorio con herramientas de productividad
+* **Cliente/servidor (1983-presente)**: PCs o laptops (clientes) conectados a servidores más potentes que distribuyen la carga computacional
+* **Computación empresarial (1992-presente)**: Integración de redes y hardware disperso en una infraestructura empresarial para flujo libre de información
+* **Computación en la nube y móvil (2000-presente)**: Acceso a recursos compartidos (cómputo, almacenamiento, aplicaciones, servicios) vía red/Internet desde cualquier dispositivo y lugar
+
+3. **Impulsores tecnológicos de la evolución de la infraestructura de TI**
+
+* **Nombre**: Impulsores tecnológicos
+* **Ley de Moore**: El número de transistores en un chip se duplica aproximadamente cada 18 meses, lo que incrementa el poder de procesamiento y reduce costos
+* **Ley del almacenamiento digital masivo**: La cantidad de información digital se duplica anualmente, mientras que los costos de almacenamiento caen exponencialmente
+* **Ley de Metcalfe (economía de red)**: El valor de una red crece de forma exponencial con cada nuevo miembro adicional
+* **Reducción en los costos de comunicaciones e Internet**: La drástica caída de precios y la expansión de Internet impulsan la dependencia de redes de comunicación
+
+
+1. **ASCII**
+
+* **Nombre**: Código estándar estadounidense para el intercambio de información
+* **Función**: Permitir intercambio de datos entre computadoras de distintos fabricantes.
+* **Uso adicional**: Lenguaje universal para dispositivos de entrada/salida.
+* **Año**: 1958 (adoptado como estándar en 1963).
+
+2. **COBOL**
+
+* **Nombre**: Lenguaje común orientado a negocios
+* **Función**: Facilitar programación en negocios y reducir costos de software.
+* **Patrocinio**: Departamento de Defensa de EE. UU. (1959).
+
+3. **UNIX**
+
+* **Nombre**: Sistema operativo multitareas y multiusuario portable
+* **Función**: Operar en variedad de computadoras de distintos fabricantes.
+* **Origen**: Bell Labs (1969), liberado en 1975.
+* **Uso**: Sistema operativo empresarial más utilizado en los 80s.
+
+4. **TCP/IP**
+
+* **Nombre**: Protocolo de control de transmisión / Protocolo Internet
+* **Función**: Conectar millones de computadoras en redes globales.
+* **Uso posterior**: Protocolo estándar para LAN e intranet.
+* **Año**: 1974, desarrollado para el Departamento de Defensa.
+
+5. **Ethernet**
+
+* **Nombre**: Estándar de red para LAN
+* **Función**: Conectar computadoras de escritorio en redes locales.
+* **Impacto**: Impulsó la computación cliente/servidor y PCs.
+* **Año**: 1973.
+
+6. **Wintel**
+
+* **Nombre**: Computadora personal IBM/Microsoft/Intel
+* **Función**: Estándar de bajo costo para computación de escritorio.
+* **Base**: Procesadores Intel, Microsoft DOS/Windows.
+* **Impacto**: 25 años de crecimiento explosivo en informática global.
+* **Año**: 1981.
+
+7. **World Wide Web**
+
+* **Nombre**: Estándar de red para páginas electrónicas globales
+* **Función**: Almacenar, recuperar y mostrar texto, gráficos, audio y video en red mundial.
+* **Año**: 1989-1993.
+
+1. **Componentes de la infraestructura de TI**
+
+* **Hardware de cómputo**: Computadoras de escritorio, portátiles, servidores y dispositivos de almacenamiento.
+* **Software de sistemas**: Sistemas operativos y programas que administran recursos de hardware y aplicaciones.
+* **Administración de datos y almacenamiento**: Bases de datos y sistemas de gestión de datos.
+* **Tecnología de redes y telecomunicaciones**: Redes de datos, Internet, intranets, extranets y equipos de comunicación.
+* **Servicios de Internet**: Proveedores de servicios de red, aplicaciones web y soporte de conectividad.
+* **Servicios de consultoría e integración de sistemas**: Asistencia para diseñar, integrar y administrar sistemas complejos.
+* **Servicios de administración y soporte de sistemas**: Capacidades de planeación, operación y mantenimiento de la infraestructura.
+
+1. **Tendencias en las plataformas de hardware**
+
+* **La Ley de Moore y el poder de la microprocesadora**: Los microprocesadores duplican su poder de cómputo aproximadamente cada 18 meses, reduciendo costos y aumentando rendimiento.
+* **Ley del almacenamiento masivo digital**: La capacidad de almacenamiento se duplica cada año, con costos decrecientes.
+* **Ley de Metcalfe y economía de redes**: El valor de una red crece en proporción al cuadrado del número de sus miembros.
+* **Declinación de costos en las comunicaciones y el Internet**: Disminuyen los costos de transmisión de datos y se expande la conectividad global.
+* **Estándares de hardware**: La proliferación de estándares abre la competencia y reduce costos.
+* **Arquitectura cliente/servidor**: División del procesamiento entre clientes (usuarios finales) y servidores (proveedores de recursos).
+* **Computación en red y en cuadrícula (grid computing)**: Uso compartido y coordinado de recursos distribuidos en múltiples computadoras.
+* **On-demand computing (utilización bajo demanda)**: Acceso a poder de cómputo y servicios según necesidad, reduciendo inversiones en infraestructura propia.
+* **Nanotecnología**: Desarrollo de circuitos a escala molecular, prometiendo mayor miniaturización y eficiencia.
+* **Virtualización**: Un servidor físico se comporta como múltiples máquinas, optimizando recursos.
+* **Computación en la nube (incipiente en 2004)**: Provisión de aplicaciones y almacenamiento a través de Internet en lugar de recursos locales.

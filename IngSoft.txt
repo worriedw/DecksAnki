@@ -325,3 +325,126 @@
 11. **Computación en la nube (incipiente en 2004)**
 
 * **Definición**: Provisión de aplicaciones y almacenamiento a través de Internet en lugar de recursos locales
+
+1. **La computación en la nube: Infraestructura como un servicio (IaaS)**
+
+* **Definición**: Los clientes utilizan recursos de procesamiento, almacenamiento, red y otros de los proveedores en la nube para operar sus sistemas de información.
+* **Ejemplo**: Amazon con S3 para almacenamiento y EC2 para ejecutar aplicaciones.
+* **Modelo de pago**: Los usuarios pagan solo por la cantidad de cómputo y almacenamiento utilizado.
+
+2. **La computación en la nube: Plataforma como un servicio (PaaS)**
+
+* **Definición**: Los clientes usan infraestructura y herramientas de programación hospedadas por el proveedor para desarrollar sus propias aplicaciones.
+* **Ejemplo**: IBM con su servicio de Desarrollo y prueba en IBM Cloud.
+* **Ejemplo**: Force.com de Salesforce.com para crear aplicaciones alojadas en sus servidores.
+
+3. **La computación en la nube: Software como un servicio (SaaS)**
+
+* **Definición**: Los clientes usan software alojado en la infraestructura del proveedor y acceden a través de Internet.
+* **Ejemplo**: Google Apps con aplicaciones empresariales en línea.
+* **Ejemplo**: Salesforce.com con CRM y servicios relacionados.
+* **Modelo de pago**: Cuota anual de suscripción; Google Apps también ofrece una versión gratuita de algunas herramientas.
+* **Acceso**: Desde navegador web; datos y software se mantienen en servidores remotos del proveedor.
+
+
+1. **Tendencias actuales en las plataformas de software**
+
+* **Temas clave**: Linux y software de código abierto, Java y HTML/HTML5, servicios web y SOA, outsourcing de software y servicios en la nube.
+
+2. **Software de código abierto**
+
+* **Definición**: Producido por comunidades de programadores, es gratuito, modificable y redistribuible sin licencias.
+* **Independencia**: No está restringido a un sistema operativo o hardware específico.
+* **Ejemplos**: Linux, Apache, Firefox, Open Office, Android, Chrome.
+* **Ventajas**: Bajo costo, confiabilidad, resistencia, integración multiplataforma.
+
+3. **Linux**
+
+* **Origen**: Creado por Linus Torvalds en 1991, basado en Unix.
+* **Aplicaciones**: Usado en servidores, mainframes, supercomputadoras (97% de las más rápidas del mundo), móviles y electrónicos de consumo.
+* **Versiones**: Gratuitas o comerciales con soporte (ej. Red Hat).
+* **Importancia**: Sistema operativo clave en cómputo de alto rendimiento y base de Android.
+
+4. **Java**
+
+* **Definición**: Lenguaje orientado a objetos, independiente del sistema operativo y procesador.
+* **Historia**: Creado en 1992 por James Gosling y liberado como software libre en 2006-2007.
+* **Características**: Código escrito una vez y ejecutable en cualquier dispositivo con JVM.
+* **Usos**: Applets, e-commerce, e-business, aplicaciones móviles (Android).
+
+5. **HTML y HTML5**
+
+* **HTML**: Lenguaje de marcado para definir texto, gráficos, audio, video y enlaces en páginas web.
+* **Limitación inicial**: Diseñado para documentos estáticos, dependía de complementos para multimedia.
+* **HTML5**: Permite incrustar multimedia sin complementos, soporta almacenamiento offline y es adaptable a móviles y escritorio.
+* **Otros lenguajes web**: Ruby (velocidad y facilidad) y Python (claridad y uso en la nube).
+
+6. **Servicios Web**
+
+* **Definición**: Componentes de software con acoplamiento débil que intercambian información mediante estándares universales.
+* **Tecnología base**: XML, permite comunicación, presentación y almacenamiento de datos con significado semántico.
+* **Ventajas**: Integración entre sistemas diferentes sin programación personalizada.
+* **Ejemplo**: Dollar Rent A Car integrando reservas con Southwest Airlines mediante servicios Web.
+
+7. **Arquitectura orientada a servicios (SOA)**
+
+* **Definición**: Conjunto de servicios autocontenidos que se comunican entre sí para crear aplicaciones funcionales.
+* **Reutilización**: Permite ensamblar aplicaciones combinando servicios existentes.
+* **Soporte empresarial**: Plataformas como IBM WebSphere y Microsoft .NET.
+
+8. **Outsourcing de software y servicios en la nube**
+
+* **Fuentes externas**: Paquetes de software, outsourcing de desarrollo/mantenimiento, SaaS.
+* **Paquetes empresariales**: SAP, Oracle-PeopleSoft, integran procesos globales a bajo costo.
+* **Outsourcing**: Contratación externa (ej. Cemex con IBM).
+* **SaaS**: Software como servicio, accesible vía Internet con pago por suscripción o transacción (ej. Salesforce.com).
+* **SLA**: Contrato formal que define niveles de servicio, seguridad, soporte y condiciones de terminación.
+
+9. **Mashups**
+
+* **Definición**: Aplicaciones que combinan componentes de distintas fuentes para crear soluciones nuevas.
+* **Ejemplo**: ZipRealty con Google Maps + Zillow.
+* **Uso empresarial**: Integración de servicios y datos de múltiples orígenes.
+
+10. **Apps**
+
+* **Definición**: Programas pequeños especializados para móviles, web o escritorio.
+* **Características**: Rápidas, baratas, fáciles de instalar y orientadas a tareas específicas.
+* **Importancia**: Más de un millón disponibles en iOS y Android; determinan éxito de plataformas móviles.
+* **Ejemplos comunes**: Juegos, noticias, mapas, redes sociales, música, e-commerce.
+* **Impacto**: Influyen en diseño web y fidelizan usuarios a una plataforma de hardware.
+
+1. **Desafíos de administrar la infraestructura de TI**
+
+* **Principales desafíos**: Lidiar con el cambio de plataforma y tecnología, gobernanza y administración, e inversiones inteligentes en infraestructura.
+
+
+2. **Cambio de plataforma e infraestructura**
+
+* **Escalabilidad**: Capacidad de expandirse para atender más usuarios sin fallar.
+* **Computación móvil**: Requiere políticas y herramientas para inventariar, rastrear, actualizar y asegurar dispositivos móviles.
+* **Computación en la nube y SaaS**: Necesidad de acuerdos contractuales que garanticen disponibilidad, seguridad y desempeño de aplicaciones críticas.
+* **Responsabilidad gerencial**: Definir niveles aceptables de tiempo de respuesta y disponibilidad de sistemas críticos.
+
+
+3. **Gerencia y gobernanza**
+
+* **Gobernanza de TI**: Determina quién controla y administra la infraestructura.
+* **Decisiones clave**: Centralización vs. autonomía de divisiones, asignación de costos entre unidades de negocio.
+* **Reto**: Equilibrar administración centralizada con necesidades de cada unidad.
+
+
+4. **Inversiones inteligentes en infraestructura**
+
+* **Riesgo de sobreinversión**: Genera rezagos financieros.
+* **Riesgo de subinversión**: Reduce la competitividad al no cumplir con servicios clave.
+* **Rentar vs. comprar**: Decisión estratégica entre adquirir activos de TI o rentarlos a proveedores externos (incluida la nube).
+* **Evaluación de la nube**: Bajo costo y flexibilidad, pero debe analizarse seguridad, procesos y costos reales a largo plazo.
+
+
+5. **Costo Total de Propiedad (TCO)**
+
+* **Componentes**: Adquisición de hardware y software, instalación, capacitación, soporte, mantenimiento, infraestructura de red, tiempo inactivo, espacio y energía.
+* **Ejemplo**: TCO de una PC puede ser hasta 3 veces su precio de compra.
+* **Recomendación**: Reducir costos mediante centralización, estandarización y mejor gestión.
+

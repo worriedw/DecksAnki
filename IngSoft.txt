@@ -448,3 +448,41 @@
 * **Ejemplo**: TCO de una PC puede ser hasta 3 veces su precio de compra.
 * **Recomendación**: Reducir costos mediante centralización, estandarización y mejor gestión.
 
+1. **Importancia de estudiar sistemas de información**
+
+* **Razón**: Son vitales para la eficiencia, efectividad y éxito competitivo de los negocios en un entorno cambiante.
+* **Comparación**: Igual de esenciales que contabilidad, finanzas o mercadotecnia.
+
+2. **Definición de sistema**
+
+* **Concepto**: Conjunto de componentes interrelacionados con un límite definido que trabajan juntos para lograr objetivos comunes.
+
+3. **Definición de sistema de información (SI)**
+
+* **Concepto**: Combinación organizada de personas, hardware, software, redes y recursos de información que almacena, recupera, transforma y disemina información.
+
+4. **Diferencia entre SI y TI**
+
+* **Sistema de información (SI)**: Incluye todos los componentes y recursos necesarios para proveer información y funciones en la organización.
+* **Tecnología de información (TI)**: Se refiere a los componentes tecnológicos (hardware, software, redes, bases de datos) que permiten operar el SI.
+
+5. **Tecnologías de información principales**
+
+* **Hardware**: Microcomputadoras, servidores, mainframes, dispositivos de entrada, salida y almacenamiento.
+* **Software**: Sistemas operativos, navegadores, software de productividad y aplicaciones de negocio.
+* **Redes de telecomunicaciones**: Medios, procesadores y software para Internet, intranets y extranets.
+* **Administración de recursos de información**: Software de bases de datos para desarrollo, acceso y mantenimiento de datos.
+
+6. **Áreas de conocimiento de los SI**
+
+* **Conceptos fundamentales**: Teoría de sistemas y estrategias competitivas.
+* **Tecnologías de información**: Hardware, software, redes y administración de datos.
+* **Aplicaciones de negocio**: Uso de SI en funciones empresariales, comercio electrónico y toma de decisiones.
+* **Procesos de desarrollo**: Métodos para planear, crear e implementar SI.
+* **Retos administrativos/gerenciales**: Seguridad, ética y gestión global de SI.
+
+7. **Funciones fundamentales de los SI en los negocios**
+
+* **Apoyo en procesos y operaciones**: Optimización de actividades empresariales.
+* **Apoyo en toma de decisiones**: Información útil para empleados y directivos.
+* **Apoyo en estrategias competitivas**: Logro de ventajas frente a competidores.

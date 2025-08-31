@@ -1,41 +1,39 @@
 
 1. **Inversión en tecnología de la información (TI) en EE.UU.**
 
-* **Consultoría y servicios**: Gran parte se destina al rediseño de operaciones comerciales
+* Para consultoría y servicios, ademas gran parte se destina al rediseño de operaciones comerciales
 
 2. **Tendencia de inversión en TI (1999–2013)**
 
-* **Proporción de capital invertido en TI**: Aumentó del 14% al 33% del capital total
-
+* La proporción de capital invertido en TI aumentó del 14%, al 33% del capital total
 
 8. **Objetivos empresariales con TI**
 
-* **Beneficios**: Respuesta rápida al cliente, reducción de inventario, mayor eficiencia
-* **Cadenas de suministro**: Más rápidas, con enfoque en inventario justo a tiempo
+* Respuesta rápida al cliente, mayor eficiencia, cadenas de suministro más rápidas, con enfoque en inventario justo a tiempo para reducción de inventario
 
 1. **Cambios tecnológicos interrelacionados**
 
-* **Plataforma computacional móvil**: Adopción generalizada en negocios y usuarios
-* **Big Data**: Crecimiento en su uso comercial para análisis y toma de decisiones
-* **Computación en la nube**: Aumento en la ejecución de software de negocios vía Internet
+* Plataforma computacional móvil adoptada y generalizada en negocios y usuarios
+* Big Data de uso comercial, para análisis y toma de decisiones
+* Computación en la nube, que aumento la ejecución de software de negocios vía Internet
   
 1. **El mundo “plano” según Thomas Friedman**
 
-* **Significado**: La globalización, impulsada por Internet y las comunicaciones, eliminó ventajas tradicionales de los países desarrollados y generó competencia global en empleos, mercados y recursos, con paises con mas ganas y sueldos bajos.
+* La globalización impulsada por Internet y las comunicaciones, eliminó ventajas tradicionales de los países desarrollados, y generó competencia global, en empleos, mercados y recursos, con paises con mas ganas y sueldos bajos.
 
 1. **Objetivos estratégicos de los sistemas de información**
 
 * **Excelencia operacional**
-* **Nuevos productos, servicios y modelos de negocios**
+* **Nuevos productos, servicios y modelos de negocios**.
 * **Intimidad con el cliente y proveedor** mediante el análisis de datos y comunicación directa.
 * **Toma de decisiones mejorada**
 * **Ventaja competitiva**
-* **Sobrevivencia** adaptarse a las exigencias del entorno y mantenerse en el mercado.
+* **Adaptarse a las exigencias del entorno y sobrevivir en el mercado**.
 
 1. **Definición técnica de sistema de información**
 
-* **Componentes interrelacionados**: Recolectan, procesan, almacenan y distribuyen información.
-* **Propósito**: Apoyar la toma de decisiones y el control organizacional.
+* Recolectan, procesan, almacenan y distribuyen información.
+* Para apoyar la toma de decisiones y el control organizacional.
 
 1. **Diferencia entre datos e información**
 
@@ -50,26 +48,25 @@
 
 1. **Gerencia de nivel superior**
 
-* **Función**: Toma decisiones estratégicas de largo alcance.
-* **Responsabilidad**: Asegurar el desempeño financiero de la empresa.
+* Toma decisiones estratégicas de largo alcance, y asegurar el desempeño financiero de la empresa.
 
 2. **Gerencia de nivel medio**
 
-* **Función**: Ejecutar los programas y planes de la gerencia superior.
+* Ejecuta los programas y planes de la **gerencia superior**.
 
 3. **Gerencia operacional**
 
-* **Función**: Supervisar las actividades diarias de la empresa.
+* Supervisa las actividades diarias de la empresa.
 
 4. **Trabajadores del conocimiento**
 
-* **Ejemplos**: Ingenieros, científicos, arquitectos.
 * **Función**: Diseñar productos o servicios y generar nuevo conocimiento.
+* Ingenieros, científicos, arquitectos.
 
 5. **Trabajadores de datos**
 
-* **Ejemplos**: Secretarias, asistentes administrativos.
 * **Función**: Apoyar en la calendarización y comunicaciones en todos los niveles.
+* Secretarias, asistentes administrativos.
 
 6. **Trabajadores de producción o de servicio**
 
@@ -77,96 +74,96 @@
 
 1. **Intranet**
 
-* **Definición**: Red corporativa interna basada en tecnología de Internet.
+* Red corporativa interna basada en tecnología de Internet.
 
 2. **Extranet**
 
-* **Definición**: Intranet privada extendida a usuarios autorizados fuera de la organización.
-* **Uso**: Coordinar actividades con otras empresas como compras y colaboración en diseño.
+* **Intranet privada extendida** a usuarios autorizados fuera de la organización para coordinar actividades con otras empresas, como compras y colaboración en diseño.
 
 1. **Activos complementarios**
 
-* **Definición**: Valores requeridos para derivar valor de una inversión primaria.
-* **Ejemplo**: Los automóviles requieren carreteras, estaciones de gasolina, talleres de reparación y regulación legal.
+* Valores requeridos para derivar valor de una inversión primaria.
+* **Ejemplo**: Los automóviles requieren: carreteras, estaciones de gasolina, talleres de reparación y regulación legal.
 
 1. **Activos organizacionales**
 
-* **Características**: Cultura de apoyo orientada a eficiencia y eficacia, modelo de negocios apropiado, procesos eficientes, autoridad descentralizada, decisiones distribuidas y sólido equipo de desarrollo de SI.
+* Cultura de apoyo orientada a eficiencia, modelo de negocios apropiado, autoridad descentralizada, decisiones distribuidas y sólido equipo de desarrollo de SI.
 
 1. **Activos gerenciales**
 
-* **Características**: Apoyo directivo a inversión tecnológica y cambio, incentivos para innovación, trabajo colaborativo, capacitación en decisiones, cultura flexible y basada en conocimiento.
+* Apoyo directivo a inversión en tecnológia y cambio, incentivos para innovación, trabajo colaborativo, capacitación en decisiones, cultura flexible y basada en conocimiento.
 
 1. **Activos sociales**
 
-* **Características**: Infraestructura de Internet y telecomunicaciones, educación con TI para alfabetismo digital, estándares gubernamentales y privados, leyes que fomentan mercados justos y empresas tecnológicas de apoyo en mercados adyacentes.
+* Educación con TI para alfabetismo digital, infraestructura de Internet y telecomunicaciones, estándares gubernamentales y privados, leyes que fomentan mercados justos y empresas tecnológicas de apoyo en mercados adyacentes.
 
 1. **TPS**
 
-* **Nombre**: Sistemas de procesamiento de transacciones
-* **Función**: Registrar operaciones diarias de la organización.
-* **Ejemplos**: Ventas, pagos, depósitos, inventario.
-* **Uso**: Base de datos para MIS, DSS y otros sistemas.
+* **Sistemas de Procesamiento de Transacciones**
 * **Objetivo**: Procesar grandes volúmenes de transacciones con precisión y rapidez.
+* **Función**: Registrar operaciones diarias de la organización.
+* **Uso**: Base de datos para MIS, DSS y otros sistemas.
+* **Ejemplos**: Ventas, pagos, depósitos, inventario.
 
 2. **MIS**
 
-* **Nombre**: Sistemas de información gerencial
+* **Sistemas de información gerencial**
 * **Función**: Reportes rutinarios para gerencia media.
-* **Datos**: De TPS, comprimidos y programados.
 * **Uso**: Supervisar, controlar y predecir desempeño.
+* **Datos**: De TPS, comprimidos y programados.
 * **Análisis**: Simple, poca flexibilidad.
 
 3. **DSS**
 
-* **Nombre**: Sistemas de soporte de decisiones
+* **Sistemas de soporte de decisiones**
 * **Función**: Decisiones no rutinarias con modelos y análisis.
 * **Datos**: Internos (TPS, MIS) y externos.
 * **Usuarios**: Gerentes y analistas avanzados.
 
 4. **ESS**
 
-* **Nombre**: Sistemas de apoyo a ejecutivos
+* **Sistemas de apoyo a ejecutivos**
+* **Objetivo**: Visión global y pronósticos.
 * **Función**: Decisiones estratégicas no rutinarias.
 * **Datos**: Externos, MIS y DSS.
 * **Herramienta**: Tableros y portales ejecutivos.
-* **Objetivo**: Visión global y pronósticos.
 
 5. **ERP**
 
-* **Nombre**: Sistemas empresariales
+* **Sistemas empresariales**
 * **Función**: Integrar procesos clave en un solo sistema.
 * **Áreas**: Producción, finanzas, ventas, RRHH.
 * **Beneficio**: Flujo automático de datos y decisiones precisas.
 
 6. **SCM**
 
-* **Nombre**: Sistemas de cadena de suministro
-* **Función**: Coordinar flujo de bienes e información con proveedores.
+* **Sistemas de cadena de suministro**
 * **Objetivo**: Entrega rápida y económica.
+* **Función**: Coordinar flujo de bienes e información con proveedores.
 * **Tipo**: Interorganizacional.
 
 7. **CRM**
 
-* **Nombre**: Sistemas de relaciones con clientes
-* **Función**: Gestionar ventas, marketing y servicio.
+* **Sistemas de relaciones con clientes**
 * **Objetivo**: Satisfacción, retención y aumento de ventas.
+* **Función**: Gestionar ventas, marketing y servicio.
 
 8. **KMS**
 
-* **Nombre**: Sistemas de conocimiento
-* **Función**: Capturar y compartir conocimiento empresarial.
+* **Sistemas de conocimiento**
 * **Objetivo**: Mejorar procesos, decisiones y ventaja estratégica.
+* **Función**: Capturar y compartir conocimiento empresarial.
+
 
 1. **Infraestructura de TI**
 
-* **Nombre**: Infraestructura de tecnología de la información
-* **Definición**: Conjunto de dispositivos físicos y aplicaciones de software necesarios para operar toda la empresa. También comprende un conjunto de servicios a nivel empresarial, que incluyen capacidades técnicas y humanas.
+* **Infraestructura de tecnología de la información**
+* Conjunto de dispositivos físicos y aplicaciones de software necesarios para operar toda la empresa. También comprende un conjunto de servicios a nivel empresarial, que incluyen capacidades técnicas y humanas.
 * **Componentes clave**: Plataformas de cómputo, Servicios de telecomunicaciones (datos, voz, video), Gestión de datos (almacenamiento y análisis), Software de aplicaciones empresariales, Administración de instalaciones físicas, Gestión de TI (planificación, coordinación, contabilidad, dirección de proyectos), Estándares de TI (políticas sobre uso de tecnología), Educación en TI (capacitación), Investigación y desarrollo de TI
 
 2. **Evolución de la infraestructura de TI – las cinco eras**
 
-* **Nombre**: Etapas de evolución de la infraestructura de TI
+* **Etapas de evolución de la infraestructura de TI**
 * **Mainframes y minicomputadoras (1959-presente)**: Computación centralizada controlada por operadores, con componentes suministrados por un solo proveedor
 * **Computadora personal (1981-presente)**: Proliferación de PCs en escritorio con herramientas de productividad
 * **Cliente/servidor (1983-presente)**: PCs o laptops (clientes) conectados a servidores más potentes que distribuyen la carga computacional
@@ -175,50 +172,50 @@
 
 3. **Impulsores tecnológicos de la evolución de la infraestructura de TI**
 
-* **Nombre**: Impulsores tecnológicos
+* **Impulsores tecnológicos**
 * **Ley de Moore**: El número de transistores en un chip se duplica aproximadamente cada 18 meses, lo que incrementa el poder de procesamiento y reduce costos
 * **Ley del almacenamiento digital masivo**: La cantidad de información digital se duplica anualmente, mientras que los costos de almacenamiento caen exponencialmente
-* **Ley de Metcalfe (economía de red)**: El valor de una red crece de forma exponencial con cada nuevo miembro adicional
+* **Ley de Metcalfe (metcalfe ni idea xd)**: El valor de una red crece de forma exponencial con cada nuevo miembro adicional
 * **Reducción en los costos de comunicaciones e Internet**: La drástica caída de precios y la expansión de Internet impulsan la dependencia de redes de comunicación
 
 
 1. **ASCII**
 
-* **Nombre**: Código estándar estadounidense para el intercambio de información
+* **Código estándar estadounidense para el intercambio de información**
 * **Función**: Permitir intercambio de datos entre computadoras de distintos fabricantes.
 * **Uso adicional**: Lenguaje universal para dispositivos de entrada/salida.
 * **Año**: 1958 (adoptado como estándar en 1963).
 
 2. **COBOL**
 
-* **Nombre**: Lenguaje común orientado a negocios
+* **Lenguaje común orientado a negocios**
 * **Función**: Facilitar programación en negocios y reducir costos de software.
 * **Patrocinio**: Departamento de Defensa de EE. UU. (1959).
 
 3. **UNIX**
 
-* **Nombre**: Sistema operativo multitareas y multiusuario portable
+* **Sistema operativo multitareas y multiusuario portable**
 * **Función**: Operar en variedad de computadoras de distintos fabricantes.
-* **Origen**: Bell Labs (1969), liberado en 1975.
 * **Uso**: Sistema operativo empresarial más utilizado en los 80s.
+* **Origen**: Bell Labs (1969), liberado en 1975.
 
 4. **TCP/IP**
 
-* **Nombre**: Protocolo de control de transmisión / Protocolo Internet
+* **Protocolo de control de transmisión / Protocolo Internet**
 * **Función**: Conectar millones de computadoras en redes globales.
 * **Uso posterior**: Protocolo estándar para LAN e intranet.
 * **Año**: 1974, desarrollado para el Departamento de Defensa.
 
 5. **Ethernet**
 
-* **Nombre**: Estándar de red para LAN
+* **Estándar de red para LAN**
 * **Función**: Conectar computadoras de escritorio en redes locales.
 * **Impacto**: Impulsó la computación cliente/servidor y PCs.
 * **Año**: 1973.
 
 6. **Wintel**
 
-* **Nombre**: Computadora personal IBM/Microsoft/Intel
+* **Computadora personal IBM/Microsoft/Intel**
 * **Función**: Estándar de bajo costo para computación de escritorio.
 * **Base**: Procesadores Intel, Microsoft DOS/Windows.
 * **Impacto**: 25 años de crecimiento explosivo en informática global.
@@ -226,7 +223,7 @@
 
 7. **World Wide Web**
 
-* **Nombre**: Estándar de red para páginas electrónicas globales
+* **Estándar de red para páginas electrónicas globales**
 * **Función**: Almacenar, recuperar y mostrar texto, gráficos, audio y video en red mundial.
 * **Año**: 1989-1993.
 
@@ -256,93 +253,91 @@
 
 1. **Hardware de cómputo**
 
-* **Definición**: Computadoras de escritorio, portátiles, servidores y dispositivos de almacenamiento
+* Computadoras de escritorio, portátiles, servidores y dispositivos de almacenamiento
 
 2. **Software de sistemas**
 
-* **Definición**: Sistemas operativos y programas que administran recursos de hardware y aplicaciones
+* Sistemas operativos y programas que administran recursos de hardware y aplicaciones
 
 3. **Administración de datos y almacenamiento**
 
-* **Definición**: Bases de datos y sistemas de gestión de datos
+* Bases de datos y sistemas de gestión de datos
 
 4. **Tecnología de redes y telecomunicaciones**
 
-* **Definición**: Redes de datos, Internet, intranets, extranets y equipos de comunicación
+* Redes de datos, Internet, intranets, extranets y equipos de comunicación
 
 5. **Servicios de Internet**
 
-* **Definición**: Proveedores de servicios de red, aplicaciones web y soporte de conectividad
+* Proveedores de servicios de red, aplicaciones web y soporte de conectividad
 
 6. **Servicios de consultoría e integración de sistemas**
 
-* **Definición**: Asistencia para diseñar, integrar y administrar sistemas complejos
+* Asistencia para diseñar, integrar y administrar sistemas complejos
 
 7. **Servicios de administración y soporte de sistemas**
 
-* **Definición**: Capacidades de planeación, operación y mantenimiento de la infraestructura
+* Capacidades de planeación, operación y mantenimiento de la infraestructura
 
 1. **La Ley de Moore y el poder de la microprocesadora**
 
-* **Definición**: Los microprocesadores duplican su poder de cómputo aproximadamente cada 18 meses, reduciendo costos y aumentando rendimiento
+* Los microprocesadores duplican su poder de cómputo aproximadamente cada 18 meses, reduciendo costos y aumentando rendimiento
 
 2. **Ley del almacenamiento masivo digital**
 
-* **Definición**: La capacidad de almacenamiento se duplica cada año, con costos decrecientes
+* La capacidad de almacenamiento se duplica cada año, con costos decrecientes
 
 3. **Ley de Metcalfe y economía de redes**
 
-* **Definición**: El valor de una red crece en proporción al cuadrado del número de sus miembros
+* El valor de una red crece en proporción al cuadrado del número de sus miembros
 
 4. **Declinación de costos en las comunicaciones y el Internet**
 
-* **Definición**: Disminuyen los costos de transmisión de datos y se expande la conectividad global
+* Disminuyen los costos de transmisión de datos y se expande la conectividad global
 
 5. **Estándares de hardware**
 
-* **Definición**: La proliferación de estándares abre la competencia y reduce costos
+* La proliferación de estándares abre la competencia y reduce costos
 
 6. **Arquitectura cliente/servidor**
 
-* **Definición**: División del procesamiento entre clientes (usuarios finales) y servidores (proveedores de recursos)
+* División del procesamiento entre clientes (usuarios finales) y servidores (proveedores de recursos)
 
 7. **Computación en red y en cuadrícula (grid computing)**
 
-* **Definición**: Uso compartido y coordinado de recursos distribuidos en múltiples computadoras
+* Uso compartido y coordinado de recursos distribuidos en múltiples computadoras
 
 8. **On-demand computing (utilización bajo demanda)**
 
-* **Definición**: Acceso a poder de cómputo y servicios según necesidad, reduciendo inversiones en infraestructura propia
+* Acceso a poder de cómputo y servicios según necesidad, reduciendo inversiones en infraestructura propia
 
 9. **Nanotecnología**
 
-* **Definición**: Desarrollo de circuitos a escala molecular, prometiendo mayor miniaturización y eficiencia
+* Desarrollo de circuitos a escala molecular, prometiendo mayor miniaturización y eficiencia
 
 10. **Virtualización**
 
-* **Definición**: Un servidor físico se comporta como múltiples máquinas, optimizando recursos
+* Un servidor físico se comporta como múltiples máquinas, optimizando recursos
 
 11. **Computación en la nube (incipiente en 2004)**
 
-* **Definición**: Provisión de aplicaciones y almacenamiento a través de Internet en lugar de recursos locales
+* Provisión de aplicaciones y almacenamiento a través de Internet en lugar de recursos locales
 
 1. **La computación en la nube: Infraestructura como un servicio (IaaS)**
 
-* **Definición**: Los clientes utilizan recursos de procesamiento, almacenamiento, red y otros de los proveedores en la nube para operar sus sistemas de información.
+* Los clientes utilizan recursos de procesamiento, almacenamiento, red y otros de los proveedores en la nube para operar sus sistemas de información.
 * **Ejemplo**: Amazon con S3 para almacenamiento y EC2 para ejecutar aplicaciones.
 * **Modelo de pago**: Los usuarios pagan solo por la cantidad de cómputo y almacenamiento utilizado.
 
 2. **La computación en la nube: Plataforma como un servicio (PaaS)**
 
-* **Definición**: Los clientes usan infraestructura y herramientas de programación hospedadas por el proveedor para desarrollar sus propias aplicaciones.
-* **Ejemplo**: IBM con su servicio de Desarrollo y prueba en IBM Cloud.
-* **Ejemplo**: Force.com de Salesforce.com para crear aplicaciones alojadas en sus servidores.
+* Los clientes usan infraestructura y herramientas de programación hospedadas por el proveedor para desarrollar sus propias aplicaciones.
+* **Ejemplo**: IBM con su servicio de Desarrollo y prueba en IBM Cloud. Force.com de Salesforce.com para crear aplicaciones alojadas en sus servidores.
 
 3. **La computación en la nube: Software como un servicio (SaaS)**
 
-* **Definición**: Los clientes usan software alojado en la infraestructura del proveedor y acceden a través de Internet.
-* **Ejemplo**: Google Apps con aplicaciones empresariales en línea.
-* **Ejemplo**: Salesforce.com con CRM y servicios relacionados.
+* Los clientes usan software alojado en la infraestructura del proveedor y acceden a través de Internet.
+* **Ejemplo**: Google Apps con aplicaciones empresariales en línea. Salesforce.com con CRM y servicios relacionados.
 * **Modelo de pago**: Cuota anual de suscripción; Google Apps también ofrece una versión gratuita de algunas herramientas.
 * **Acceso**: Desde navegador web; datos y software se mantienen en servidores remotos del proveedor.
 
@@ -353,7 +348,7 @@
 
 2. **Software de código abierto**
 
-* **Definición**: Producido por comunidades de programadores, es gratuito, modificable y redistribuible sin licencias.
+* Producido por comunidades de programadores, es gratuito, modificable y redistribuible sin licencias.
 * **Independencia**: No está restringido a un sistema operativo o hardware específico.
 * **Ejemplos**: Linux, Apache, Firefox, Open Office, Android, Chrome.
 * **Ventajas**: Bajo costo, confiabilidad, resistencia, integración multiplataforma.
@@ -367,8 +362,8 @@
 
 4. **Java**
 
-* **Definición**: Lenguaje orientado a objetos, independiente del sistema operativo y procesador.
-* **Historia**: Creado en 1992 por James Gosling y liberado como software libre en 2006-2007.
+* Lenguaje orientado a objetos, independiente del sistema operativo y procesador.
+* **Historia**: Creado en 1992 por James Gosling en Sun Microsystems y liberado como software libre en 2006-2007.
 * **Características**: Código escrito una vez y ejecutable en cualquier dispositivo con JVM.
 * **Usos**: Applets, e-commerce, e-business, aplicaciones móviles (Android).
 
@@ -381,14 +376,14 @@
 
 6. **Servicios Web**
 
-* **Definición**: Componentes de software con acoplamiento débil que intercambian información mediante estándares universales.
+* Componentes de software con acoplamiento débil que intercambian información mediante estándares universales.
 * **Tecnología base**: XML, permite comunicación, presentación y almacenamiento de datos con significado semántico.
 * **Ventajas**: Integración entre sistemas diferentes sin programación personalizada.
 * **Ejemplo**: Dollar Rent A Car integrando reservas con Southwest Airlines mediante servicios Web.
 
 7. **Arquitectura orientada a servicios (SOA)**
 
-* **Definición**: Conjunto de servicios autocontenidos que se comunican entre sí para crear aplicaciones funcionales.
+* Conjunto de servicios autocontenidos que se comunican entre sí para crear aplicaciones funcionales.
 * **Reutilización**: Permite ensamblar aplicaciones combinando servicios existentes.
 * **Soporte empresarial**: Plataformas como IBM WebSphere y Microsoft .NET.
 
@@ -402,13 +397,13 @@
 
 9. **Mashups**
 
-* **Definición**: Aplicaciones que combinan componentes de distintas fuentes para crear soluciones nuevas.
+* Aplicaciones que combinan componentes de distintas fuentes para crear soluciones nuevas.
 * **Ejemplo**: ZipRealty con Google Maps + Zillow.
 * **Uso empresarial**: Integración de servicios y datos de múltiples orígenes.
 
 10. **Apps**
 
-* **Definición**: Programas pequeños especializados para móviles, web o escritorio.
+* Programas pequeños especializados para móviles, web o escritorio.
 * **Características**: Rápidas, baratas, fáciles de instalar y orientadas a tareas específicas.
 * **Importancia**: Más de un millón disponibles en iOS y Android; determinan éxito de plataformas móviles.
 * **Ejemplos comunes**: Juegos, noticias, mapas, redes sociales, música, e-commerce.
@@ -416,10 +411,10 @@
 
 1. **Desafíos de administrar la infraestructura de TI**
 
-* **Principales desafíos**: Lidiar con el cambio de plataforma y tecnología, gobernanza y administración, e inversiones inteligentes en infraestructura.
+* Lidiar con el cambio de plataforma y tecnología, gobernanza y administración, e inversiones inteligentes en infraestructura.
 
 
-2. **Cambio de plataforma e infraestructura**
+2. **Cambio para plataforma e infraestructura**
 
 * **Escalabilidad**: Capacidad de expandirse para atender más usuarios sin fallar.
 * **Computación móvil**: Requiere políticas y herramientas para inventariar, rastrear, actualizar y asegurar dispositivos móviles.
@@ -444,45 +439,7 @@
 
 5. **Costo Total de Propiedad (TCO)**
 
-* **Componentes**: Adquisición de hardware y software, instalación, capacitación, soporte, mantenimiento, infraestructura de red, tiempo inactivo, espacio y energía.
+* **Componentes**: Costos de, adquisición de hardware y software, instalación, capacitación, soporte, mantenimiento, infraestructura de red, tiempo inactivo, espacio y energía.
 * **Ejemplo**: TCO de una PC puede ser hasta 3 veces su precio de compra.
 * **Recomendación**: Reducir costos mediante centralización, estandarización y mejor gestión.
 
-1. **Importancia de estudiar sistemas de información**
-
-* **Razón**: Son vitales para la eficiencia, efectividad y éxito competitivo de los negocios en un entorno cambiante.
-* **Comparación**: Igual de esenciales que contabilidad, finanzas o mercadotecnia.
-
-2. **Definición de sistema**
-
-* **Concepto**: Conjunto de componentes interrelacionados con un límite definido que trabajan juntos para lograr objetivos comunes.
-
-3. **Definición de sistema de información (SI)**
-
-* **Concepto**: Combinación organizada de personas, hardware, software, redes y recursos de información que almacena, recupera, transforma y disemina información.
-
-4. **Diferencia entre SI y TI**
-
-* **Sistema de información (SI)**: Incluye todos los componentes y recursos necesarios para proveer información y funciones en la organización.
-* **Tecnología de información (TI)**: Se refiere a los componentes tecnológicos (hardware, software, redes, bases de datos) que permiten operar el SI.
-
-5. **Tecnologías de información principales**
-
-* **Hardware**: Microcomputadoras, servidores, mainframes, dispositivos de entrada, salida y almacenamiento.
-* **Software**: Sistemas operativos, navegadores, software de productividad y aplicaciones de negocio.
-* **Redes de telecomunicaciones**: Medios, procesadores y software para Internet, intranets y extranets.
-* **Administración de recursos de información**: Software de bases de datos para desarrollo, acceso y mantenimiento de datos.
-
-6. **Áreas de conocimiento de los SI**
-
-* **Conceptos fundamentales**: Teoría de sistemas y estrategias competitivas.
-* **Tecnologías de información**: Hardware, software, redes y administración de datos.
-* **Aplicaciones de negocio**: Uso de SI en funciones empresariales, comercio electrónico y toma de decisiones.
-* **Procesos de desarrollo**: Métodos para planear, crear e implementar SI.
-* **Retos administrativos/gerenciales**: Seguridad, ética y gestión global de SI.
-
-7. **Funciones fundamentales de los SI en los negocios**
-
-* **Apoyo en procesos y operaciones**: Optimización de actividades empresariales.
-* **Apoyo en toma de decisiones**: Información útil para empleados y directivos.
-* **Apoyo en estrategias competitivas**: Logro de ventajas frente a competidores.

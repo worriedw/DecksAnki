@@ -531,11 +531,7 @@
 * **Definición**: Uso de Internet para fortalecer procesos de negocio, comercio electrónico y colaboración empresarial.
 * **Dominio**: Cualquier intercambio de información, dinero, recursos o servicios en línea.
 * **Infraestructura clave**: Internet, intranets y extranets.
-* **Funciones principales**:
-
-  1. Reingeniería de procesos internos.
-  2. Implementación de comercio electrónico con clientes/proveedores.
-  3. Promoción de colaboración empresarial.
+* **Funciones principales**: Reingeniería de procesos internos, Implementación de comercio electrónico con clientes/proveedores, Promoción de colaboración empresarial.
 
 5. *Sistemas de colaboración empresarial*
 
@@ -556,11 +552,7 @@
 8. *Sistemas de apoyo a las operaciones*
 
 * **Función**: Procesan transacciones, controlan procesos industriales, apoyan comunicación y actualizan bases de datos.
-* **Tipos**:
-
-  * Sistemas de procesamiento de transacciones (TPS): Procesamiento por lotes o en tiempo real (ej. POS).
-  * Sistemas de control de procesos: Monitoreo y ajuste en procesos industriales (ej. refinación de petróleo).
-  * Sistemas de colaboración empresarial: Comunicación y coordinación (ej. email, chat, videoconferencia).
+* **Tipos**: Sistemas de procesamiento de transacciones (TPS): Procesamiento por lotes o en tiempo real (ej. POS), Sistemas de control de procesos: Monitoreo y ajuste en procesos industriales (ej. refinación de petróleo), Sistemas de colaboración empresarial: Comunicación y coordinación (ej. email, chat, videoconferencia).
 
 9. *Sistemas de apoyo a la administración*
 
@@ -614,8 +606,6 @@
 * **Escasez de personal**: Falta de profesionales calificados en sistemas de información.
 * **Evolución constante**: Los cambios dinámicos en tecnologías aseguran perspectivas laborales positivas a largo plazo.
 
----
-
 2. *Caso Citibank y fraudes por correo electrónico*
 
 * **Fraude**: Correos falsos dirigían a un sitio web falso para robar datos bancarios.
@@ -624,7 +614,6 @@
 * **Respuesta**: Citibank alertó a clientes y reforzó seguridad.
 * **Reto TI**: Proteger la información de clientes y los recursos corporativos frente al crecimiento de amenazas en Internet.
 
----
 
 3. *Caso Amazon y contratación TI*
 
@@ -634,7 +623,6 @@
 * **Cultura laboral**: Informalidad, la mejor idea gana, carrera profesional flexible.
 * **Énfasis**: Obsesión por el cliente como motor principal.
 
----
 
 4. *Función de los sistemas de información (SI) en negocios*
 
@@ -645,7 +633,7 @@
 * **Oportunidad de carrera**: Campo dinámico y desafiante.
 * **Componente clave**: Parte esencial de recursos e infraestructura empresarial.
 
----
+
 
 5. *Concepto de sistema*
 
@@ -653,7 +641,7 @@
 * **Componentes básicos**: Entrada, procesamiento y salida.
 * **Ejemplo**: Un sistema de manufactura transforma materias primas en productos; un SI transforma datos en información.
 
----
+
 
 6. *Retroalimentación y control en sistemas*
 
@@ -661,7 +649,7 @@
 * **Control**: Evaluación de la retroalimentación y ajustes necesarios en entradas o procesos para alcanzar objetivos.
 * **Ejemplo**: Un termostato controla la calefacción de un hogar; en negocios, procedimientos contables regulan las finanzas.
 
----
+
 
 7. *Características de los sistemas*
 
@@ -671,7 +659,7 @@
 * **Sistema adaptativo**: Capaz de cambiarse a sí mismo o al ambiente para sobrevivir.
 * **Ejemplo**: Las organizaciones son sistemas abiertos y adaptativos.
 
----
+
 
 8. *Componentes de un sistema de información*
 
@@ -679,14 +667,14 @@
 * **Actividades**: Entrada, procesamiento, salida, almacenamiento y control.
 * **Meta**: Transformar datos en productos de información útiles.
 
----
+
 
 9. *Recursos de personas en SI*
 
 * **Usuarios finales**: Personas que usan el sistema o su información (clientes, empleados, gerentes).
 * **Especialistas de SI**: Diseñan, desarrollan y operan sistemas (analistas, desarrolladores, operadores de sistemas).
 
----
+
 
 10. *Recursos de hardware en SI*
 
@@ -694,7 +682,7 @@
 * **Periféricos**: Teclado, mouse, pantallas, impresoras.
 * **Medios**: Papel, discos magnéticos, ópticos.
 
----
+
 
 11. *Recursos de software en SI*
 
@@ -702,7 +690,7 @@
 * **Software de aplicación**: Programas para usos específicos (ventas, nóminas, procesamiento de palabras).
 * **Procedimientos**: Instrucciones de operación para usuarios.
 
----
+
 
 12. *Recursos de datos en SI*
 
@@ -711,7 +699,7 @@
 * **Almacenamiento**: Bases de datos (datos procesados) y bases de conocimiento (hechos, reglas, casos).
 * **Diferencia**: Datos = hechos sin procesar, Información = datos con significado en contexto.
 
----
+
 
 13. *Recursos de redes en SI*
 
@@ -719,7 +707,7 @@
 * **Elementos**: Computadoras, procesadores de comunicación, medios de transmisión, software de redes.
 * **Ejemplos**: Internet, intranets, extranets.
 
----
+
 
 14. *Actividades de los sistemas de información*
 
@@ -740,7 +728,7 @@
 * **Medios de entrega**: Pantallas de video, audio, impresos, multimedia.
 * **Ejemplo**: Un gerente de ventas puede consultar una pantalla, recibir un mensaje de voz y un reporte impreso de ventas.
 
----
+
 
 2. *Almacenamiento de recursos de datos*
 
@@ -749,7 +737,7 @@
 * **Beneficio**: Facilita su procesamiento o recuperación en el momento en que sean necesarios.
 * **Ejemplo**: Datos almacenados para ser reutilizados en reportes o procesos administrativos.
 
----
+
 
 3. *Control del desempeño del sistema*
 
@@ -758,16 +746,12 @@
 * **Acción**: Ajustar las actividades del sistema para generar productos adecuados de información.
 * **Ejemplo**: Si subtotales de ventas no coinciden con el total, se deben corregir procesos de entrada o procesamiento.
 
----
+
 
 4. *Identificación de los sistemas de información*
 
 * **Competencia clave**: Reconocer los componentes fundamentales de los SI en el mundo real.
-* **Aspectos a identificar**:
-
-  * Recursos de personas, hardware, software, datos y redes.
-  * Tipos de productos de información que generan.
-  * Actividades de entrada, procesamiento, salida, almacenamiento y control.
+* **Aspectos a identificar**: Recursos de personas, hardware, software, datos y redes, Tipos de productos de información que generan, Actividades de entrada, procesamiento, salida, almacenamiento y control.
 * **Importancia**: Permite ser mejor usuario, desarrollador o gerente de sistemas de información, clave para el éxito profesional.
 
 

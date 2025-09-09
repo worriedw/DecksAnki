@@ -458,33 +458,33 @@
 
 
 
-1. *Importancia de estudiar SI y TI en los negocios*
+1. **Importancia de estudiar SI y TI en los negocios**
 
 * **Razón**: Son elementos vitales de las organizaciones y negocios exitosos.
 * **Relevancia**: Igual de importante que contabilidad, finanzas o mercadotecnia.
 * **Objetivo**: Ayudar a mejorar eficiencia, efectividad, toma de decisiones y competitividad.
 
-2. *Definición de sistema*
+2. **Definición de sistema**
 
 * **Concepto**: Conjunto de componentes interrelacionados con un límite definido que trabajan juntos para lograr objetivos en común.
 
-3. *Definición de sistema de información (SI)*
+3. **Definición de sistema de información (SI)**
 
 * **Concepto**: Combinación organizada de personas, hardware, software, redes de comunicación y recursos de información que almacena, recupera, transforma y disemina información en una organización.
 
-4. *Diferencia entre SI y TI*
+4. **Diferencia entre SI y TI**
 
 * **Sistema de información (SI)**: Conjunto completo de componentes y recursos que proveen información y funciones a la organización.
 * **Tecnología de información (TI)**: Componentes tecnológicos (hardware, software, redes, datos) que permiten operar al sistema.
 
-5. *Tecnologías de información principales*
+5. **Tecnologías de información principales**
 
 * **Hardware**: Microcomputadoras, servidores, mainframes, dispositivos de entrada, salida y almacenamiento.
 * **Software**: Sistemas operativos, navegadores web, software de productividad, aplicaciones de negocio (CRM, SCM).
 * **Redes de telecomunicaciones**: Medios, procesadores y software para Internet, intranets, extranets (cable e inalámbrico).
 * **Administración de recursos de información**: Bases de datos y software de gestión de bases de datos.
 
-6. *Estructura de conocimiento de SI para negocios*
+6. **Estructura de conocimiento de SI para negocios**
 
 * **Conceptos fundamentales**: Sistemas, estrategia competitiva, funciones de SI.
 * **Tecnologías de información**: Hardware, software, redes, datos, Internet.
@@ -492,13 +492,13 @@
 * **Procesos de desarrollo**: Metodologías de planeación, desarrollo e implementación de SI.
 * **Retos administrativos/gerenciales**: Seguridad, ética, administración de SI a nivel global.
 
-7. *Funciones fundamentales de los SI en los negocios*
+7. **Funciones fundamentales de los SI en los negocios**
 
 * **Apoyo a procesos y operaciones**: Registro de compras, inventario, pagos, tendencias de ventas.
 * **Apoyo a la toma de decisiones**: Análisis de productos, inversiones, estrategias.
 * **Apoyo a ventaja competitiva**: Innovación en TI para atraer clientes y fidelizarlos.
 
-8. *Evolución de las funciones de los SI*
+8. **Evolución de las funciones de los SI**
 
 * **1950s**: Procesamiento electrónico de datos (EDP).
 * **1960s**: Sistemas de información administrativa (MIS).
@@ -510,86 +510,86 @@
 
 
 
-1. *Sistemas de información estratégica (SIS)*
+1. **Sistemas de información estratégica (SIS)**
 
 * **Concepto**: Tecnología de información como parte integral de procesos, productos y servicios de negocio.
 * **Objetivo**: Ayudar a obtener ventaja competitiva en el mercado global.
 
-2. *Sistemas de planeación de recursos empresariales (ERP)*
+2. **Sistemas de planeación de recursos empresariales (ERP)**
 
 * **Definición**: Integran todas las facetas de una empresa: planeación, manufactura, ventas, recursos, clientes, inventarios, finanzas, RRHH y mercadotecnia.
 * **Ventaja principal**: Interfaz común para todas las funciones basadas en computadoras.
 * **Beneficio**: Integración y compartición de datos para una toma flexible de decisiones estratégicas.
 
-3. *Impacto de Internet en los SI*
+3. **Impacto de Internet en los SI**
 
 * **Cambio**: Aumentó radicalmente las capacidades de los SI en los negocios desde los años 90.
 * **Efecto**: Empresas basadas en Internet y comercio electrónico global se volvieron comunes.
 
-4. *Negocio electrónico (e-business)*
+4. **Negocio electrónico (e-business)**
 
 * **Definición**: Uso de Internet para fortalecer procesos de negocio, comercio electrónico y colaboración empresarial.
 * **Dominio**: Cualquier intercambio de información, dinero, recursos o servicios en línea.
 * **Infraestructura clave**: Internet, intranets y extranets.
 * **Funciones principales**: Reingeniería de procesos internos, Implementación de comercio electrónico con clientes/proveedores, Promoción de colaboración empresarial.
 
-5. *Sistemas de colaboración empresarial*
+5. **Sistemas de colaboración empresarial**
 
 * **Definición**: Uso de software para comunicación, coordinación y colaboración de equipos en red.
 * **Ejemplo**: Equipos virtuales con correo electrónico, videoconferencias y páginas web de proyectos.
 
-6. *Comercio electrónico (e-commerce)*
+6. **Comercio electrónico (e-commerce)**
 
 * **Definición**: Compra, venta, mercadotecnia y servicio de productos/servicios a través de redes de cómputo.
 * **Procesos que apoya**: Publicidad, ventas, atención al cliente, seguridad y pagos en línea.
 * **Ejemplos**: Sitios de ventas en línea, acceso extranet a inventarios, uso de intranets para CRM.
 
-7. *Clasificación de los SI*
+7. **Clasificación de los SI**
 
 * **Operativos**: Apoyan procesos y operaciones de negocio.
 * **Administrativos**: Apoyan toma de decisiones y gestión directiva.
 
-8. *Sistemas de apoyo a las operaciones*
+8. **Sistemas de apoyo a las operaciones**
 
 * **Función**: Procesan transacciones, controlan procesos industriales, apoyan comunicación y actualizan bases de datos.
 * **Tipos**: Sistemas de procesamiento de transacciones (TPS): Procesamiento por lotes o en tiempo real (ej. POS), Sistemas de control de procesos: Monitoreo y ajuste en procesos industriales (ej. refinación de petróleo), Sistemas de colaboración empresarial: Comunicación y coordinación (ej. email, chat, videoconferencia).
 
-9. *Sistemas de apoyo a la administración*
+9. **Sistemas de apoyo a la administración**
 
 * **MIS**: Proporcionan reportes y pantallas predefinidas para gerentes.
 * **DSS**: Apoyo interactivo en toma de decisiones (ej. análisis de escenarios).
 * **EIS**: Información crítica de fuentes internas y externas en pantallas fáciles de usar.
 
-10. *Otras categorías de SI*
+10. **Otras categorías de SI**
 
 * **Sistemas expertos**: Basados en conocimiento, proporcionan consejos expertos.
 * **Sistemas de administración del conocimiento**: Creación, organización y difusión del conocimiento empresarial.
 * **Sistemas funcionales de negocios**: Apoyo a funciones específicas (contabilidad, finanzas, marketing, RRHH).
 * **Sistemas estratégicos**: Aplican TI para ventaja competitiva (ej. trading online, rastreo de envíos).
 
-11. *Retos directivos de la TI*
+11. **Retos directivos de la TI**
 
 * **Meta**: Maximizar valor de clientes y negocio usando TI.
 * **Enfoque**: Integrar TI en estrategias, procesos, estructuras y cultura organizacional.
 * **Riesgo**: Mal uso o mala gestión puede provocar fracasos tecnológicos y de negocio.
 
-12. *Ejemplo de fracaso y éxito con TI: Hershey Foods*
+12. **Ejemplo de fracaso y éxito con TI: Hershey Foods**
 
 * **Fracaso (1999)**: Implementación apresurada de ERP SAP R/3 en temporada crítica → interrupciones y pérdidas.
 * **Éxito (2002)**: Actualización web de ERP, bajo costo, sin interrupciones, mejoras medibles en procesos y calidad.
 
-13. *Proceso de desarrollo de SI*
+13. **Proceso de desarrollo de SI**
 
 * **Etapas**: Investigar, analizar, diseñar, implementar, mantener.
 * **Meta**: Desarrollar soluciones efectivas basadas en requerimientos organizacionales.
 
-14. *Caso de éxito en desarrollo de SI: Registro de nacimientos en Bangladesh (BRIS)*
+14. **Caso de éxito en desarrollo de SI: Registro de nacimientos en Bangladesh (BRIS)**
 
 * **Problema**: Registros manuales ineficientes y corruptos.
 * **Solución**: Sistema electrónico con enfoque creativo y piloto inicial.
 * **Resultados**: Mayor eficiencia, reducción de errores, integración futura, bajos costos.
 
-15. *Retos éticos en la implementación de TI*
+15. **Retos éticos en la implementación de TI**
 
 * **Riesgos potenciales**: Infiltración de privacidad, información inexacta, confabulación.
 * **Daños potenciales**: Boicots de clientes, interrupciones laborales, intervención gubernamental.
@@ -598,7 +598,8 @@
 
 
 
-1. *Retos de las carreras de TI*
+
+1. **Retos de las carreras de TI**
 
 * **Oportunidades**: La TI ofrece carreras interesantes, fascinantes y lucrativas.
 * **Desafíos económicos**: Crisis económicas afectan el sector, junto con el incremento de costos laborales en Norteamérica, Canadá y Europa.
@@ -606,7 +607,7 @@
 * **Escasez de personal**: Falta de profesionales calificados en sistemas de información.
 * **Evolución constante**: Los cambios dinámicos en tecnologías aseguran perspectivas laborales positivas a largo plazo.
 
-2. *Caso Citibank y fraudes por correo electrónico*
+2. **Caso Citibank y fraudes por correo electrónico**
 
 * **Fraude**: Correos falsos dirigían a un sitio web falso para robar datos bancarios.
 * **Origen**: Sitio fraudulento hospedado en Moscú.
@@ -615,7 +616,7 @@
 * **Reto TI**: Proteger la información de clientes y los recursos corporativos frente al crecimiento de amenazas en Internet.
 
 
-3. *Caso Amazon y contratación TI*
+3. **Caso Amazon y contratación TI**
 
 * **Demanda**: Alta necesidad de desarrolladores de software y analistas de sistemas con enfoque en clientes.
 * **Perfil buscado**: Mezcla de experiencia técnica y visión del negocio.
@@ -624,7 +625,7 @@
 * **Énfasis**: Obsesión por el cliente como motor principal.
 
 
-4. *Función de los sistemas de información (SI) en negocios*
+4. **Función de los sistemas de información (SI) en negocios**
 
 * **Área funcional principal**: Tan importante como contabilidad, finanzas o mercadotecnia.
 * **Contribución**: Mejora la eficiencia, productividad, moral de empleados y satisfacción del cliente.
@@ -634,24 +635,21 @@
 * **Componente clave**: Parte esencial de recursos e infraestructura empresarial.
 
 
-
-5. *Concepto de sistema*
+5. **Concepto de sistema**
 
 * **Definición**: Conjunto de componentes interrelacionados que trabajan juntos con un objetivo común, transformando entradas en salidas.
 * **Componentes básicos**: Entrada, procesamiento y salida.
 * **Ejemplo**: Un sistema de manufactura transforma materias primas en productos; un SI transforma datos en información.
 
 
-
-6. *Retroalimentación y control en sistemas*
+6. **Retroalimentación y control en sistemas**
 
 * **Retroalimentación**: Información sobre desempeño del sistema (ej. ventas).
 * **Control**: Evaluación de la retroalimentación y ajustes necesarios en entradas o procesos para alcanzar objetivos.
 * **Ejemplo**: Un termostato controla la calefacción de un hogar; en negocios, procedimientos contables regulan las finanzas.
 
 
-
-7. *Características de los sistemas*
+7. **Características de los sistemas**
 
 * **Ambiente**: Un sistema existe dentro de un ambiente con otros sistemas.
 * **Subsistema**: Un sistema puede ser parte de otro mayor.
@@ -660,39 +658,34 @@
 * **Ejemplo**: Las organizaciones son sistemas abiertos y adaptativos.
 
 
-
-8. *Componentes de un sistema de información*
+8. **Componentes de un sistema de información**
 
 * **Recursos**: Personas, hardware, software, datos y redes.
 * **Actividades**: Entrada, procesamiento, salida, almacenamiento y control.
 * **Meta**: Transformar datos en productos de información útiles.
 
 
-
-9. *Recursos de personas en SI*
+9. **Recursos de personas en SI**
 
 * **Usuarios finales**: Personas que usan el sistema o su información (clientes, empleados, gerentes).
 * **Especialistas de SI**: Diseñan, desarrollan y operan sistemas (analistas, desarrolladores, operadores de sistemas).
 
 
-
-10. *Recursos de hardware en SI*
+10. **Recursos de hardware en SI**
 
 * **Máquinas**: Computadoras de mano, laptops, desktop, mainframes.
 * **Periféricos**: Teclado, mouse, pantallas, impresoras.
 * **Medios**: Papel, discos magnéticos, ópticos.
 
 
-
-11. *Recursos de software en SI*
+11. **Recursos de software en SI**
 
 * **Software de sistema**: Programas operativos que controlan hardware.
 * **Software de aplicación**: Programas para usos específicos (ventas, nóminas, procesamiento de palabras).
 * **Procedimientos**: Instrucciones de operación para usuarios.
 
 
-
-12. *Recursos de datos en SI*
+12. **Recursos de datos en SI**
 
 * **Definición**: Datos como recurso valioso de la organización.
 * **Formas**: Alfanuméricos, texto, imágenes, audio.
@@ -700,16 +693,14 @@
 * **Diferencia**: Datos = hechos sin procesar, Información = datos con significado en contexto.
 
 
-
-13. *Recursos de redes en SI*
+13. **Recursos de redes en SI**
 
 * **Importancia**: Esenciales en negocios y comercio electrónico.
 * **Elementos**: Computadoras, procesadores de comunicación, medios de transmisión, software de redes.
 * **Ejemplos**: Internet, intranets, extranets.
 
 
-
-14. *Actividades de los sistemas de información*
+14. **Actividades de los sistemas de información**
 
 * **Entrada**: Captura de datos (ej. escaneo de códigos de barras).
 * **Procesamiento**: Transformación de datos (ej. cálculo de nóminas).
@@ -719,8 +710,7 @@
 
 
 
-
-1. *Salida de los productos de información*
+1. **Salida de los productos de información**
 
 * **Definición**: Actividad en la que la información se transmite y queda disponible para los usuarios finales.
 * **Objetivo**: Elaborar productos de información apropiados para los usuarios.
@@ -729,8 +719,7 @@
 * **Ejemplo**: Un gerente de ventas puede consultar una pantalla, recibir un mensaje de voz y un reporte impreso de ventas.
 
 
-
-2. *Almacenamiento de recursos de datos*
+2. **Almacenamiento de recursos de datos**
 
 * **Definición**: Actividad en la cual los datos e información se retienen organizadamente para uso posterior.
 * **Organización**: Elementos de información estructurados en bases de datos.
@@ -738,8 +727,7 @@
 * **Ejemplo**: Datos almacenados para ser reutilizados en reportes o procesos administrativos.
 
 
-
-3. *Control del desempeño del sistema*
+3. **Control del desempeño del sistema**
 
 * **Definición**: Actividad que produce retroalimentación sobre entrada, procesamiento, salida y almacenamiento.
 * **Propósito**: Evaluar si el sistema cumple los estándares de desempeño establecidos.
@@ -747,18 +735,8 @@
 * **Ejemplo**: Si subtotales de ventas no coinciden con el total, se deben corregir procesos de entrada o procesamiento.
 
 
-
-4. *Identificación de los sistemas de información*
+4. **Identificación de los sistemas de información**
 
 * **Competencia clave**: Reconocer los componentes fundamentales de los SI en el mundo real.
 * **Aspectos a identificar**: Recursos de personas, hardware, software, datos y redes, Tipos de productos de información que generan, Actividades de entrada, procesamiento, salida, almacenamiento y control.
 * **Importancia**: Permite ser mejor usuario, desarrollador o gerente de sistemas de información, clave para el éxito profesional.
-
-
-
-
-
-
-
-
-

@@ -444,20 +444,6 @@
 * **Recomendación**: Reducir costos mediante centralización, estandarización y mejor gestión.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 1. **Importancia de estudiar SI y TI en los negocios**
 
 * **Razón**: Son elementos vitales de las organizaciones y negocios exitosos.
@@ -505,10 +491,6 @@
 * **1970s**: Sistemas de apoyo a la toma de decisiones (DSS).
 * **1980s**: Computación del usuario final, sistemas de información ejecutiva (EIS), sistemas expertos, inteligencia artificial.
 * **1990s en adelante**: Comercio electrónico, sistemas estratégicos, aplicaciones globales en Internet.
-
-
-
-
 
 1. **Sistemas de información estratégica (SIS)**
 

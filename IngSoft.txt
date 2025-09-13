@@ -154,7 +154,6 @@
 * **Objetivo**: Mejorar procesos, decisiones y ventaja estratégica.
 * **Función**: Capturar y compartir conocimiento empresarial.
 
-
 1. **Infraestructura de TI**
 
 * **Infraestructura de tecnología de la información**
@@ -177,7 +176,6 @@
 * **Ley del almacenamiento digital masivo**: La cantidad de información digital se duplica anualmente, mientras que los costos de almacenamiento caen exponencialmente
 * **Ley de Metcalfe (metcalfe ni idea xd)**: El valor de una red crece de forma exponencial con cada nuevo miembro adicional
 * **Reducción en los costos de comunicaciones e Internet**: La drástica caída de precios y la expansión de Internet impulsan la dependencia de redes de comunicación
-
 
 1. **ASCII**
 
@@ -229,27 +227,27 @@
 
 1. **Componentes de la infraestructura de TI**
 
-* **Hardware de cómputo**: Computadoras de escritorio, portátiles, servidores y dispositivos de almacenamiento.
-* **Software de sistemas**: Sistemas operativos y programas que administran recursos de hardware y aplicaciones.
-* **Administración de datos y almacenamiento**: Bases de datos y sistemas de gestión de datos.
-* **Tecnología de redes y telecomunicaciones**: Redes de datos, Internet, intranets, extranets y equipos de comunicación.
-* **Servicios de Internet**: Proveedores de servicios de red, aplicaciones web y soporte de conectividad.
+* **Computadoras de escritorio, portátiles, servidores y dispositivos de almacenamiento**: Hardware de cómputo.
+* **Sistemas operativos y programas que administran recursos de hardware y aplicaciones**: Software de sistemas.
+* **Bases de datos y sistemas de gestión de datos**: Administración de datos y almacenamiento.
+* **Redes de datos, Internet, intranets, extranets y equipos de comunicación**: Tecnología de redes y telecomunicaciones.
+* **Proveedores de servicios de red, aplicaciones web y soporte de conectividad**: Servicios de Internet.
 * **Servicios de consultoría e integración de sistemas**: Asistencia para diseñar, integrar y administrar sistemas complejos.
 * **Servicios de administración y soporte de sistemas**: Capacidades de planeación, operación y mantenimiento de la infraestructura.
 
 1. **Tendencias en las plataformas de hardware**
 
-* **La Ley de Moore y el poder de la microprocesadora**: Los microprocesadores duplican su poder de cómputo aproximadamente cada 18 meses, reduciendo costos y aumentando rendimiento.
-* **Ley del almacenamiento masivo digital**: La capacidad de almacenamiento se duplica cada año, con costos decrecientes.
-* **Ley de Metcalfe y economía de redes**: El valor de una red crece en proporción al cuadrado del número de sus miembros.
-* **Declinación de costos en las comunicaciones y el Internet**: Disminuyen los costos de transmisión de datos y se expande la conectividad global.
-* **Estándares de hardware**: La proliferación de estándares abre la competencia y reduce costos.
-* **Arquitectura cliente/servidor**: División del procesamiento entre clientes (usuarios finales) y servidores (proveedores de recursos).
-* **Computación en red y en cuadrícula (grid computing)**: Uso compartido y coordinado de recursos distribuidos en múltiples computadoras.
-* **On-demand computing (utilización bajo demanda)**: Acceso a poder de cómputo y servicios según necesidad, reduciendo inversiones en infraestructura propia.
-* **Nanotecnología**: Desarrollo de circuitos a escala molecular, prometiendo mayor miniaturización y eficiencia.
-* **Virtualización**: Un servidor físico se comporta como múltiples máquinas, optimizando recursos.
-* **Computación en la nube (incipiente en 2004)**: Provisión de aplicaciones y almacenamiento a través de Internet en lugar de recursos locales.
+* La Ley de Moore y el poder de la microprocesadora: Los **microprocesadores duplican** su poder de cómputo aproximadamente **cada 18 meses**, reduciendo costos y aumentando rendimiento.
+* Ley del almacenamiento masivo digital: La **capacidad de almacenamiento se duplica cada año**, con costos decrecientes.
+* Ley de Metcalfe y economía de redes: **El valor** de una red **crece en proporción** al cuadrado del número **de sus miembros**.
+* **Disminuyen** los costos de transmisión de datos **y se expande la conectividad** global a traves de Internet.
+* La proliferación de **estándares abre la competencia y reduce costos**.
+* Arquitectura cliente/servidor: **División** del procesamiento **entre clientes** (usuarios finales) **y servidores** (proveedores de recursos).
+* Computación en red y en cuadrícula (grid computing): **Uso compartido** y coordinado **de recursos distribuidos** en múltiples computadoras.
+* On-demand computing: **Acceso** a poder de cómputo y servicios **según necesidad**, reduciendo inversiones en infraestructura propia.
+* Nanotecnología: Desarrollo de **circuitos a escala molecular**, prometiendo mayor **miniaturización y eficiencia**.
+* Virtualización: **Un servidor físico se comporta como múltiples máquinas**, optimizando recursos.
+* *Computación en la nube (incipiente en 2004): **Provisión** de aplicaciones y almacenamiento **a través de Internet en lugar de recursos locales**.
 
 1. **Hardware de cómputo**
 
@@ -341,7 +339,6 @@
 * **Modelo de pago**: Cuota anual de suscripción; Google Apps también ofrece una versión gratuita de algunas herramientas.
 * **Acceso**: Desde navegador web; datos y software se mantienen en servidores remotos del proveedor.
 
-
 1. **Tendencias actuales en las plataformas de software**
 
 * **Temas clave**: Linux y software de código abierto, Java y HTML/HTML5, servicios web y SOA, outsourcing de software y servicios en la nube.
@@ -413,7 +410,6 @@
 
 * Lidiar con el cambio de plataforma y tecnología, gobernanza y administración, e inversiones inteligentes en infraestructura.
 
-
 2. **Cambio para plataforma e infraestructura**
 
 * **Escalabilidad**: Capacidad de expandirse para atender más usuarios sin fallar.
@@ -421,13 +417,11 @@
 * **Computación en la nube y SaaS**: Necesidad de acuerdos contractuales que garanticen disponibilidad, seguridad y desempeño de aplicaciones críticas.
 * **Responsabilidad gerencial**: Definir niveles aceptables de tiempo de respuesta y disponibilidad de sistemas críticos.
 
-
 3. **Gerencia y gobernanza**
 
 * **Gobernanza de TI**: Determina quién controla y administra la infraestructura.
 * **Decisiones clave**: Centralización vs. autonomía de divisiones, asignación de costos entre unidades de negocio.
 * **Reto**: Equilibrar administración centralizada con necesidades de cada unidad.
-
 
 4. **Inversiones inteligentes en infraestructura**
 
@@ -436,7 +430,6 @@
 * **Rentar vs. comprar**: Decisión estratégica entre adquirir activos de TI o rentarlos a proveedores externos (incluida la nube).
 * **Evaluación de la nube**: Bajo costo y flexibilidad, pero debe analizarse seguridad, procesos y costos reales a largo plazo.
 
-
 5. **Costo Total de Propiedad (TCO)**
 
 * **Componentes**: Costos de, adquisición de hardware y software, instalación, capacitación, soporte, mantenimiento, infraestructura de red, tiempo inactivo, espacio y energía.
@@ -444,39 +437,48 @@
 * **Recomendación**: Reducir costos mediante centralización, estandarización y mejor gestión.
 
 
+
+
+
+
+
+
+
+
+
+
 1. **Importancia de estudiar SI y TI en los negocios**
 
-* **Razón**: Son elementos vitales de las organizaciones y negocios exitosos.
-* **Relevancia**: Igual de importante que contabilidad, finanzas o mercadotecnia.
 * **Objetivo**: Ayudar a mejorar eficiencia, efectividad, toma de decisiones y competitividad.
+* Son elementos vitales de las organizaciones y negocios exitosos.Al igual de importante que contabilidad, finanzas o mercadotecnia.
 
 2. **Definición de sistema**
 
-* **Concepto**: Conjunto de componentes interrelacionados con un límite definido que trabajan juntos para lograr objetivos en común.
+* Conjunto de **componentes** interrelacionados con un **límite definido que trabajan juntos** para lograr objetivos en común.
 
 3. **Definición de sistema de información (SI)**
 
-* **Concepto**: Combinación organizada de personas, hardware, software, redes de comunicación y recursos de información que almacena, recupera, transforma y disemina información en una organización.
+* Combinación organizada de **personas, hardware, software, redes de comunicación y recursos de información** que **almacena, recupera, transforma y disemina información** en una organización.
 
 4. **Diferencia entre SI y TI**
 
-* **Sistema de información (SI)**: Conjunto completo de componentes y recursos que proveen información y funciones a la organización.
-* **Tecnología de información (TI)**: Componentes tecnológicos (hardware, software, redes, datos) que permiten operar al sistema.
+* **Sistema de información **: Conjunto completo de componentes y recursos que proveen información y funciones a la organización (SI).
+* **Tecnología de información **: Componentes tecnológicos (hardware, software, redes, datos) que permiten operar al sistema (TI).
 
 5. **Tecnologías de información principales**
 
-* **Hardware**: Microcomputadoras, servidores, mainframes, dispositivos de entrada, salida y almacenamiento.
-* **Software**: Sistemas operativos, navegadores web, software de productividad, aplicaciones de negocio (CRM, SCM).
-* **Redes de telecomunicaciones**: Medios, procesadores y software para Internet, intranets, extranets (cable e inalámbrico).
-* **Administración de recursos de información**: Bases de datos y software de gestión de bases de datos.
+* **Microcomputadoras, servidores, mainframes, dispositivos de entrada, salida y almacenamiento**: Hardware .
+* **Sistemas operativos, navegadores web, software de productividad, aplicaciones de negocio (CRM, SCM)**: Software.
+* **Medios, procesadores y software para Internet, intranets, extranets (cable e inalámbrico)**: Redes de telecomunicaciones.
+* **Bases de datos y software de gestión de bases de datos**: Administración de recursos de informacion.
 
 6. **Estructura de conocimiento de SI para negocios**
 
-* **Conceptos fundamentales**: Sistemas, estrategia competitiva, funciones de SI.
-* **Tecnologías de información**: Hardware, software, redes, datos, Internet.
-* **Aplicaciones de negocio**: Funciones de negocio, ERP, CRM, comercio electrónico, apoyo a decisiones.
-* **Procesos de desarrollo**: Metodologías de planeación, desarrollo e implementación de SI.
-* **Retos administrativos/gerenciales**: Seguridad, ética, administración de SI a nivel global.
+* **Sistemas, estrategia competitiva, funciones de SI**: Conceptos fundamentales.
+* **Hardware, software, redes, datos, Internet**: Tecnologías de informacion.
+* **Funciones de negocio, ERP, CRM, comercio electrónico, apoyo a decisiones**: Aplicaciones de negocio.
+* **Metodologías de planeación, desarrollo e implementación de SI**: Procesos de desarrollo.
+* **Seguridad, ética, administración de SI a nivel global**: Retos administrativos/gerenciales.
 
 7. **Funciones fundamentales de los SI en los negocios**
 
@@ -486,45 +488,40 @@
 
 8. **Evolución de las funciones de los SI**
 
-* **1950s**: Procesamiento electrónico de datos (EDP).
-* **1960s**: Sistemas de información administrativa (MIS).
-* **1970s**: Sistemas de apoyo a la toma de decisiones (DSS).
-* **1980s**: Computación del usuario final, sistemas de información ejecutiva (EIS), sistemas expertos, inteligencia artificial.
-* **1990s en adelante**: Comercio electrónico, sistemas estratégicos, aplicaciones globales en Internet.
+* **50s**: Procesamiento electrónico de datos (EDP).
+* **60s**: Sistemas de información administrativa (MIS).
+* **70s**: Sistemas de apoyo a la toma de decisiones (DSS).
+* **80s**: Computación del usuario final, sistemas de información ejecutiva (EIS), sistemas expertos, inteligencia artificial.
+* **90s en adelante**: Comercio electrónico, sistemas estratégicos, aplicaciones globales en Internet.
 
 1. **Sistemas de información estratégica (SIS)**
 
-* **Concepto**: Tecnología de información como parte integral de procesos, productos y servicios de negocio.
-* **Objetivo**: Ayudar a obtener ventaja competitiva en el mercado global.
+* TecdInfo como parte integral de procesos, productos y servicios de negocio, con el objetivo de ayudar a obtener ventaja competitiva en el mercado global.
 
 2. **Sistemas de planeación de recursos empresariales (ERP)**
 
-* **Definición**: Integran todas las facetas de una empresa: planeación, manufactura, ventas, recursos, clientes, inventarios, finanzas, RRHH y mercadotecnia.
+* **Integran todas las facetas de una empresa:** planeación, manufactura, ventas, recursos, clientes, inventarios, finanzas, RRHH y mercadotecnia, **permitiendo una compartición de datos** para una toma flexible de decisiones estratégicas.
 * **Ventaja principal**: Interfaz común para todas las funciones basadas en computadoras.
-* **Beneficio**: Integración y compartición de datos para una toma flexible de decisiones estratégicas.
 
 3. **Impacto de Internet en los SI**
 
-* **Cambio**: Aumentó radicalmente las capacidades de los SI en los negocios desde los años 90.
-* **Efecto**: Empresas basadas en Internet y comercio electrónico global se volvieron comunes.
+* Aumentó las capacidades de los SI en los negocios desde los 90s. Haciendo que empresas basadas en Internet y comercio electrónico global se volvieron comunes.
 
 4. **Negocio electrónico (e-business)**
 
-* **Definición**: Uso de Internet para fortalecer procesos de negocio, comercio electrónico y colaboración empresarial.
+* Uso de Internet, intranets y extranets para fortalecer y rediseñar procesos internos y de negocio, comercio electrónico y colaboración empresarial.
 * **Dominio**: Cualquier intercambio de información, dinero, recursos o servicios en línea.
-* **Infraestructura clave**: Internet, intranets y extranets.
-* **Funciones principales**: Reingeniería de procesos internos, Implementación de comercio electrónico con clientes/proveedores, Promoción de colaboración empresarial.
-
-5. **Sistemas de colaboración empresarial**
-
-* **Definición**: Uso de software para comunicación, coordinación y colaboración de equipos en red.
-* **Ejemplo**: Equipos virtuales con correo electrónico, videoconferencias y páginas web de proyectos.
 
 6. **Comercio electrónico (e-commerce)**
 
-* **Definición**: Compra, venta, mercadotecnia y servicio de productos/servicios a través de redes de cómputo.
+* Compra, venta, mercadotecnia y servicio de productos/servicios a través de redes de cómputo.
 * **Procesos que apoya**: Publicidad, ventas, atención al cliente, seguridad y pagos en línea.
 * **Ejemplos**: Sitios de ventas en línea, acceso extranet a inventarios, uso de intranets para CRM.
+
+5. **Sistemas de colaboración empresarial**
+
+* Uso de software para comunicación, coordinación y colaboración de equipos en red.
+* **Ejemplo**: Equipos virtuales con correo electrónico, videoconferencias y páginas web de proyectos.
 
 7. **Clasificación de los SI**
 
@@ -533,7 +530,7 @@
 
 8. **Sistemas de apoyo a las operaciones**
 
-* **Función**: Procesan transacciones, controlan procesos industriales, apoyan comunicación y actualizan bases de datos.
+* Procesan transacciones, controlan procesos industriales, apoyan comunicación y actualizan bases de datos.
 * **Tipos**: Sistemas de procesamiento de transacciones (TPS): Procesamiento por lotes o en tiempo real (ej. POS), Sistemas de control de procesos: Monitoreo y ajuste en procesos industriales (ej. refinación de petróleo), Sistemas de colaboración empresarial: Comunicación y coordinación (ej. email, chat, videoconferencia).
 
 9. **Sistemas de apoyo a la administración**
@@ -581,48 +578,30 @@
 
 
 
+
+
+
 1. **Retos de las carreras de TI**
 
 * **Oportunidades**: La TI ofrece carreras interesantes, fascinantes y lucrativas.
-* **Desafíos económicos**: Crisis económicas afectan el sector, junto con el incremento de costos laborales en Norteamérica, Canadá y Europa.
-* **Subcontratación**: Funciones básicas de programación son trasladadas a India, Medio Oriente y Asia Pacífico.
-* **Escasez de personal**: Falta de profesionales calificados en sistemas de información.
+* **Desafíos**: Falta de profesionales calificados en sistemas de información. Crisis económicas afectan el sector, junto con el incremento de costos laborales en Norteamérica, Canadá y Europa.
+* **Subcontratación**: Funciones básicas de programación son trasladadas a India, Medio Oriente y Asia Pacífico. 
 * **Evolución constante**: Los cambios dinámicos en tecnologías aseguran perspectivas laborales positivas a largo plazo.
-
-2. **Caso Citibank y fraudes por correo electrónico**
-
-* **Fraude**: Correos falsos dirigían a un sitio web falso para robar datos bancarios.
-* **Origen**: Sitio fraudulento hospedado en Moscú.
-* **Impacto**: Aunque las pérdidas directas fueron mínimas, la confianza de los clientes se vio afectada.
-* **Respuesta**: Citibank alertó a clientes y reforzó seguridad.
-* **Reto TI**: Proteger la información de clientes y los recursos corporativos frente al crecimiento de amenazas en Internet.
-
-
-3. **Caso Amazon y contratación TI**
-
-* **Demanda**: Alta necesidad de desarrolladores de software y analistas de sistemas con enfoque en clientes.
-* **Perfil buscado**: Mezcla de experiencia técnica y visión del negocio.
-* **Obstáculos**: Escasez de profesionales que combinen habilidades técnicas con comprensión del cliente.
-* **Cultura laboral**: Informalidad, la mejor idea gana, carrera profesional flexible.
-* **Énfasis**: Obsesión por el cliente como motor principal.
-
 
 4. **Función de los sistemas de información (SI) en negocios**
 
-* **Área funcional principal**: Tan importante como contabilidad, finanzas o mercadotecnia.
-* **Contribución**: Mejora la eficiencia, productividad, moral de empleados y satisfacción del cliente.
-* **Apoyo a decisiones**: Fuente clave de información para gerentes.
-* **Ventaja estratégica**: Desarrollo de productos y servicios competitivos.
-* **Oportunidad de carrera**: Campo dinámico y desafiante.
-* **Componente clave**: Parte esencial de recursos e infraestructura empresarial.
-
+* Áreas tan importante como contabilidad, finanzas o mercadotecnia.
+* Contribuyen a la mejora de la eficiencia, productividad, moral de empleados y satisfacción del cliente.
+* Fuente clave de información para gerentes en la toma de decisiones.
+* Desarrollo de productos y servicios competitivos para una ventaja estratégica.
+* Campo dinámico y desafiante con grandes oportunidades.
+* Parte esencial de recursos e infraestructura empresarial.
 
 5. **Concepto de sistema**
 
-* **Definición**: Conjunto de componentes interrelacionados que trabajan juntos con un objetivo común, transformando entradas en salidas.
-* **Componentes básicos**: Entrada, procesamiento y salida.
+* Conjunto de componentes interrelacionados que **trabajan juntos con un objetivo común, transformando** entradas en salidas.
+* Componentes basicos: Entrada, procesamiento y salida.
 * **Ejemplo**: Un sistema de manufactura transforma materias primas en productos; un SI transforma datos en información.
-
 
 6. **Retroalimentación y control en sistemas**
 
@@ -630,28 +609,22 @@
 * **Control**: Evaluación de la retroalimentación y ajustes necesarios en entradas o procesos para alcanzar objetivos.
 * **Ejemplo**: Un termostato controla la calefacción de un hogar; en negocios, procedimientos contables regulan las finanzas.
 
-
 7. **Características de los sistemas**
 
-* **Ambiente**: Un sistema existe dentro de un ambiente con otros sistemas.
-* **Subsistema**: Un sistema puede ser parte de otro mayor.
-* **Sistema abierto**: Interactúa con su ambiente a través de entradas y salidas.
-* **Sistema adaptativo**: Capaz de cambiarse a sí mismo o al ambiente para sobrevivir.
+* **Ambiente**: Un sistema existe dentro de un ambiente con otros sistemas, y tambien puede ser parte de otro mayor.
+* **Tipos de sistemas:** Abierto: Interactúa con su ambiente a través de entradas y salidas. Adaptativo: Capaz de cambiarse a sí mismo o al ambiente para sobrevivir.
 * **Ejemplo**: Las organizaciones son sistemas abiertos y adaptativos.
-
 
 8. **Componentes de un sistema de información**
 
+* **Meta**: Transformar datos en productos de información útiles.
 * **Recursos**: Personas, hardware, software, datos y redes.
 * **Actividades**: Entrada, procesamiento, salida, almacenamiento y control.
-* **Meta**: Transformar datos en productos de información útiles.
-
 
 9. **Recursos de personas en SI**
 
-* **Usuarios finales**: Personas que usan el sistema o su información (clientes, empleados, gerentes).
+* **Usuarios finales**: Son personas que usan el sistema o su información (clientes, empleados, gerentes).
 * **Especialistas de SI**: Diseñan, desarrollan y operan sistemas (analistas, desarrolladores, operadores de sistemas).
-
 
 10. **Recursos de hardware en SI**
 
@@ -659,28 +632,23 @@
 * **Periféricos**: Teclado, mouse, pantallas, impresoras.
 * **Medios**: Papel, discos magnéticos, ópticos.
 
-
 11. **Recursos de software en SI**
 
 * **Software de sistema**: Programas operativos que controlan hardware.
 * **Software de aplicación**: Programas para usos específicos (ventas, nóminas, procesamiento de palabras).
 * **Procedimientos**: Instrucciones de operación para usuarios.
 
-
 12. **Recursos de datos en SI**
 
-* **Definición**: Datos como recurso valioso de la organización.
-* **Formas**: Alfanuméricos, texto, imágenes, audio.
-* **Almacenamiento**: Bases de datos (datos procesados) y bases de conocimiento (hechos, reglas, casos).
+* Datos de cualquier tipo como recurso valioso de la organización: Alfanuméricos, texto, imágenes, audio.
+* Almacenamiento en bases de datos (datos procesados) y bases de conocimiento (hechos, reglas, casos).
 * **Diferencia**: Datos = hechos sin procesar, Información = datos con significado en contexto.
-
 
 13. **Recursos de redes en SI**
 
-* **Importancia**: Esenciales en negocios y comercio electrónico.
+*  Esenciales en negocios y comercio electrónico.
 * **Elementos**: Computadoras, procesadores de comunicación, medios de transmisión, software de redes.
 * **Ejemplos**: Internet, intranets, extranets.
-
 
 14. **Actividades de los sistemas de información**
 
@@ -690,35 +658,26 @@
 * **Almacenamiento**: Mantenimiento de registros (clientes, empleados, productos).
 * **Control**: Verificación y monitoreo de datos (ej. señales audibles en ventas).
 
-
-
 1. **Salida de los productos de información**
 
-* **Definición**: Actividad en la que la información se transmite y queda disponible para los usuarios finales.
-* **Objetivo**: Elaborar productos de información apropiados para los usuarios.
-* **Productos comunes**: Mensajes, reportes, formularios, imágenes gráficas.
-* **Medios de entrega**: Pantallas de video, audio, impresos, multimedia.
+* Es la actividad en la que la información se transmite y queda disponible para los usuarios finales. Con el fin de elaborar productos de información apropiados para los usuarios.
+* Productos comunes: Mensajes, reportes, formularios, imágenes gráficas. Mediante pantallas de video, audio, impresos, multimedia.
 * **Ejemplo**: Un gerente de ventas puede consultar una pantalla, recibir un mensaje de voz y un reporte impreso de ventas.
-
 
 2. **Almacenamiento de recursos de datos**
 
-* **Definición**: Actividad en la cual los datos e información se retienen organizadamente para uso posterior.
-* **Organización**: Elementos de información estructurados en bases de datos.
-* **Beneficio**: Facilita su procesamiento o recuperación en el momento en que sean necesarios.
+* Actividad en la cual los datos e información se retienen organizadamente estructurados en bases de datos para uso posterior.
+* Beneficio: Facilita su procesamiento o recuperación en el momento en que sean necesarios.
 * **Ejemplo**: Datos almacenados para ser reutilizados en reportes o procesos administrativos.
-
 
 3. **Control del desempeño del sistema**
 
-* **Definición**: Actividad que produce retroalimentación sobre entrada, procesamiento, salida y almacenamiento.
-* **Propósito**: Evaluar si el sistema cumple los estándares de desempeño establecidos.
-* **Acción**: Ajustar las actividades del sistema para generar productos adecuados de información.
+* Actividad que produce retroalimentación sobre entrada, procesamiento, salida y almacenamiento para evaluar si el sistema cumple los estándares de desempeño establecidos.
+* Acción: De lo contrario, se deben ajustar las actividades del sistema para generar productos adecuados de información.
 * **Ejemplo**: Si subtotales de ventas no coinciden con el total, se deben corregir procesos de entrada o procesamiento.
-
 
 4. **Identificación de los sistemas de información**
 
-* **Competencia clave**: Reconocer los componentes fundamentales de los SI en el mundo real.
-* **Aspectos a identificar**: Recursos de personas, hardware, software, datos y redes, Tipos de productos de información que generan, Actividades de entrada, procesamiento, salida, almacenamiento y control.
+* Se deben reconocer los componentes fundamentales de los SI en el mundo real PHSDR PI.
+* Como los recursos de Personas, Hardware, Software, Datos y Redes, tipos de Productos de Información que generan, actividades de entrada, procesamiento, salida, almacenamiento y control.
 * **Importancia**: Permite ser mejor usuario, desarrollador o gerente de sistemas de información, clave para el éxito profesional.

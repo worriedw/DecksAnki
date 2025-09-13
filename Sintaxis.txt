@@ -1,0 +1,470 @@
+1. **Declarar variable**
+
+* **Sintaxis**: `let nombre: tipo = valor;`
+* **Ejemplo**: `let edad: number = 25;`
+
+2. **Declarar constante**
+
+* **Sintaxis**: `const nombre: tipo = valor;`
+* **Ejemplo**: `const PI: number = 3.1416;`
+
+3. **Tipo string**
+
+* **Sintaxis**: `let nombre: string = "texto";`
+* **Ejemplo**: `let saludo: string = "Hola mundo";`
+
+4. **Tipo number**
+
+* **Sintaxis**: `let numero: number = valor;`
+* **Ejemplo**: `let edad: number = 30;`
+
+5. **Tipo boolean**
+
+* **Sintaxis**: `let variable: boolean = valor;`
+* **Ejemplo**: `let activo: boolean = true;`
+
+6. **Arreglo**
+
+* **Sintaxis**: `let arreglo: tipo[] = [valores];`
+* **Ejemplo**: `let numeros: number[] = [1, 2, 3];`
+
+7. **Tupla**
+
+* **Sintaxis**: `let tupla: [tipo1, tipo2] = [valor1, valor2];`
+* **Ejemplo**: `let persona: [string, number] = ["Ana", 25];`
+
+8. **Suma**
+
+* **Sintaxis**: `valor1 + valor2`
+* **Ejemplo**: `let total: number = 5 + 3;`
+
+9. **Resta**
+
+* **Sintaxis**: `valor1 - valor2`
+* **Ejemplo**: `let diferencia: number = 10 - 4;`
+
+10. **Multiplicación**
+
+* **Sintaxis**: `valor1 * valor2`
+* **Ejemplo**: `let producto: number = 6 * 2;`
+
+11. **División**
+
+* **Sintaxis**: `valor1 / valor2`
+* **Ejemplo**: `let division: number = 10 / 2;`
+
+12. **Residuo**
+
+* **Sintaxis**: `valor1 % valor2`
+* **Ejemplo**: `let residuo: number = 10 % 3;`
+
+13. **Incremento**
+
+* **Sintaxis**: `variable++`
+* **Ejemplo**:
+  `let contador: number = 0;`
+  `contador++; // ahora vale 1`
+
+  14. **Decremento**
+
+* **Sintaxis**: `variable--`
+* **Ejemplo**:
+  `let contador: number = 5;`
+  `contador--; // ahora vale 4`
+
+15. **Concatenar texto**
+
+* **Sintaxis**: `texto1 + texto2`
+* **Ejemplo**:
+  `let nombre: string = "Ana";`
+  `let saludo: string = "Hola " + nombre;`
+
+16. **Template string**
+
+* **Sintaxis**: `` `Texto con ${variable}` ``
+* **Ejemplo**:
+  `let edad: number = 25;`
+  ``let mensaje: string = `Tengo ${edad} años`;``
+
+17. **Conversión a número**
+
+* **Sintaxis**: `Number(valor)`
+* **Ejemplo**:
+  `let numero: number = Number("123");`
+
+18. **Conversión a string**
+
+* **Sintaxis**: `String(valor)`
+* **Ejemplo**:
+  `let texto: string = String(456);`
+
+19. **AND lógico**
+
+* **Sintaxis**: `condición1 && condición2`
+* **Ejemplo**:
+  `let resultado: boolean = true && false; // false`
+
+20. **OR lógico**
+
+* **Sintaxis**: `condición1 || condición2`
+* **Ejemplo**:
+  `let resultado: boolean = true || false; // true`
+
+21. **NOT lógico**
+
+* **Sintaxis**: `!condición`
+* **Ejemplo**:
+  `let resultado: boolean = !true; // false`
+
+22. **Clase**
+
+* **Sintaxis**:
+
+  <pre><code class="language-ts">
+  class NombreClase {
+    propiedad: tipo;
+    constructor(param: tipo) {
+      this.propiedad = param;
+    }
+    metodo(): void {
+      // código
+    }
+  }
+  </code></pre>
+* **Ejemplo**:
+
+  <pre><code class="language-ts">
+  class Persona {
+    nombre: string;
+    constructor(nombre: string) {
+      this.nombre = nombre;
+    }
+  }
+  </code></pre>
+
+23. **Instanciar clase**
+
+* **Sintaxis**: `let objeto = new NombreClase(valor);`
+* **Ejemplo**:
+  `let persona = new Persona("Ana");`
+
+24. **If**
+
+* **Sintaxis**:
+
+  <pre><code class="language-ts">
+  if (condición) {
+    // código
+  }
+  </code></pre>
+* **Ejemplo**:
+
+  <pre><code class="language-ts">
+  if (10 > 5) {
+    console.log("Verdadero");
+  }
+  </code></pre>
+
+25. **If anidado**
+
+* **Sintaxis**:
+
+  <pre><code class="language-ts">
+  if (cond1) {
+    if (cond2) {
+      // código
+    }
+  }
+  </code></pre>
+* **Ejemplo**:
+
+  <pre><code class="language-ts">
+  if (edad > 18) {
+    if (edad < 30) {
+      console.log("Joven adulto");
+    }
+  }
+  </code></pre>
+
+26. **Switch**
+
+* **Sintaxis**:
+
+  <pre><code class="language-ts">
+  switch (valor) {
+    case opcion1:
+      // código
+      break;
+    case opcion2:
+      // código
+      break;
+    default:
+      // código
+  }
+  </code></pre>
+* **Ejemplo**:
+
+  <pre><code class="language-ts">
+  switch (color) {
+    case "rojo":
+      console.log("Color rojo");
+      break;
+    default:
+      console.log("Otro color");
+  }
+  </code></pre>
+
+27. **For**
+
+* **Sintaxis**:
+
+  <pre><code class="language-ts">
+  for (inicialización; condición; incremento) {
+    // código
+  }
+  </code></pre>
+* **Ejemplo**:
+
+  <pre><code class="language-ts">
+  for (let i = 0; i < 5; i++) {
+    console.log(i);
+  }
+  </code></pre>
+
+28. **For...of**
+
+* **Sintaxis**:
+
+  <pre><code class="language-ts">
+  for (let variable of iterable) {
+    // código
+  }
+  </code></pre>
+* **Ejemplo**:
+
+  <pre><code class="language-ts">
+  for (let numero of [1, 2, 3]) {
+    console.log(numero);
+  }
+  </code></pre>
+
+29. **For...in**
+
+* **Sintaxis**:
+
+  <pre><code class="language-ts">
+  for (let clave in objeto) {
+    // código
+  }
+  </code></pre>
+* **Ejemplo**:
+
+  <pre><code class="language-ts">
+  let persona = { nombre: "Ana", edad: 25 };
+  for (let clave in persona) {
+    console.log(clave);
+  }
+  </code></pre>
+
+30. **While**
+
+* **Sintaxis**:
+
+  <pre><code class="language-ts">
+  while (condición) {
+    // código
+  }
+  </code></pre>
+* **Ejemplo**:
+
+  <pre><code class="language-ts">
+  let i = 0;
+  while (i < 3) {
+    console.log(i);
+    i++;
+  }
+  </code></pre>
+
+31. **Do...while**
+
+* **Sintaxis**:
+
+  <pre><code class="language-ts">
+  do {
+    // código
+  } while (condición);
+  </code></pre>
+* **Ejemplo**:
+
+  <pre><code class="language-ts">
+  let i = 0;
+  do {
+    console.log(i);
+    i++;
+  } while (i < 3);
+  </code></pre>
+
+32. **Función simple**
+
+* **Sintaxis**:
+
+  <pre><code class="language-ts">
+  function nombre(param: tipo): tipo {
+    return valor;
+  }
+  </code></pre>
+* **Ejemplo**:
+
+  <pre><code class="language-ts">
+  function sumar(a: number, b: number): number {
+    return a + b;
+  }
+  </code></pre>
+
+33. **Función flecha**
+
+* **Sintaxis**: `(param: tipo) => expresión`
+* **Ejemplo**:
+
+  <pre><code class="language-ts">
+  const multiplicar = (a: number, b: number): number => a * b;
+  </code></pre>
+
+34. **Función con valor por defecto**
+
+* **Sintaxis**:
+
+  <pre><code class="language-ts">
+  function nombre(param: tipo = valor): tipo {
+    return resultado;
+  }
+  </code></pre>
+* **Ejemplo**:
+
+  <pre><code class="language-ts">
+  function saludar(nombre: string = "Invitado"): string {
+    return "Hola " + nombre;
+  }
+  </code></pre>
+
+35. **Enum numérico**
+
+* **Sintaxis**:
+
+  <pre><code class="language-ts">
+  enum NombreEnum {
+    Opcion1,
+    Opcion2,
+    Opcion3
+  }
+  </code></pre>
+* **Ejemplo**:
+
+  <pre><code class="language-ts">
+  enum Direccion {
+    Norte,
+    Sur,
+    Este,
+    Oeste
+  }
+  </code></pre>
+
+36. **Enum con valores**
+
+* **Sintaxis**:
+
+  <pre><code class="language-ts">
+  enum NombreEnum {
+    Opcion1 = "valor1",
+    Opcion2 = "valor2"
+  }
+  </code></pre>
+* **Ejemplo**:
+
+  <pre><code class="language-ts">
+  enum Colores {
+    Rojo = "ROJO",
+    Azul = "AZUL"
+  }
+  </code></pre>
+
+37. **Interface**
+
+* **Sintaxis**:
+
+  <pre><code class="language-ts">
+  interface NombreInterface {
+    propiedad: tipo;
+    metodo(): tipo;
+  }
+  </code></pre>
+* **Ejemplo**:
+
+  <pre><code class="language-ts">
+  interface Persona {
+    nombre: string;
+    edad: number;
+  }
+  </code></pre>
+
+38. **Usar interface**
+
+* **Sintaxis**: `let objeto: NombreInterface = { ... }`
+* **Ejemplo**:
+
+  <pre><code class="language-ts">
+  let usuario: Persona = { nombre: "Ana", edad: 25 };
+  </code></pre>
+
+39. **Tipo personalizado**
+
+* **Sintaxis**: `type NombreTipo = { ... };`
+* **Ejemplo**:
+
+  <pre><code class="language-ts">
+  type Producto = {
+    nombre: string;
+    precio: number;
+  };
+  </code></pre>
+
+40. **Try...catch**
+
+* **Sintaxis**:
+
+  <pre><code class="language-ts">
+  try {
+    // código
+  } catch (error) {
+    // manejar error
+  }
+  </code></pre>
+* **Ejemplo**:
+
+  <pre><code class="language-ts">
+  try {
+    let resultado = JSON.parse("texto");
+  } catch (error) {
+    console.log("Error en el parseo");
+  }
+  </code></pre>
+
+41. **Importar módulo**
+
+* **Sintaxis**: `import { nombre } from "./archivo";`
+* **Ejemplo**:
+
+  <pre><code class="language-ts">
+  import { sumar } from "./utils";
+  </code></pre>
+
+42. **Exportar módulo**
+
+* **Sintaxis**: `export function nombre() { ... }`
+* **Ejemplo**:
+
+  <pre><code class="language-ts">
+  export function sumar(a: number, b: number): number {
+    return a + b;
+  }
+  </code></pre>
